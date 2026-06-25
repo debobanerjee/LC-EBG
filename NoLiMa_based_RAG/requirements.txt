@@ -1,0 +1,8 @@
+anthropic
+json5
+matplotlib
+numpy
+openai
+python-dotenv
+pyyaml
+qdrant-client

@@ -1,0 +1,56 @@
+{
+  "eval_name": "claude-sonnet-4-5-20250929_rand_book_1_0402Inv_twohop",
+  "test_name": "0402Inv_twohop",
+  "model_name": "claude-sonnet-4-5-20250929",
+  "retrieval_question": "Which character cannot drink a cappuccino?",
+  "needle": "A message came in saying, \"I'm lactose intolerant,\" from Yuki.",
+  "gold_answers": "",
+  "system_prompt": "Your job is to answer the question entirely from the context and provide a reference. Your answer should cite all lines the answer is based on.",
+  "use_default_system_prompt": false,
+  "task_template": "<context>{haystack}</context>\n\nAnswer the question based on information only from the context. If the question is not answerable from the context, answer NA. Your response should comprise only the answer and all lines the answer is based on in json format. For example:\n```json\n{{\n  \"lines\": [25, 412],\n  \"answer\": \"John\",\n}}\n```\n\nQuestion: {question}",
+  "rag_chunk_path": "RAG_Topk/data/scroll_all/500000/500000_rand_book_1_0402Inv_twohop.json",
+  "context_length": 500000,
+  "character_set": [
+    "Yuki"
+  ],
+  "topk_used": 422,
+  "needle_rank_in_full_list": 28,
+  "document_depth_percent_min": 0,
+  "document_depth_percent_max": 100,
+  "document_depth_percent_intervals": 1,
+  "shift": 0,
+  "static_depth": -1,
+  "metric": "contains",
+  "result_dir": "RAG_Topk/data/rag_experiment_results/results_claude-sonnet-4-5-20250929/commonsense_knowledge/rand_shuffle_500000/0402Inv_twohop",
+  "results": [
+    {
+      "selected_character": "Yuki",
+      "context_length_w_filled_template": 94868,
+      "placement_metadata": {
+        "needle": "A message came in saying, \"I'm lactose intolerant,\" from Yuki.",
+        "needle_evidence_line": 2061,
+        "needle_rank_1based": 28,
+        "depth": -1,
+        "topk_used": 422,
+        "num_chunks_in_context": 422
+      },
+      "response": {
+        "lines": [
+          2061
+        ],
+        "answer": "Yuki"
+      },
+      "answer_metric": 1,
+      "evidence_metric": 1,
+      "input_tokens": 25002,
+      "output_tokens": 81
+    }
+  ],
+  "summary": {
+    "answer_metric": 1,
+    "evidence_metric": 1,
+    "total_input_tokens": 25002,
+    "total_output_tokens": 81,
+    "timestamp": "2026-05-12 04:20:03"
+  }
+}

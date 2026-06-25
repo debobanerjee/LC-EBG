@@ -1,0 +1,3530 @@
+[
+  {
+    "score": 0.3733456431803251,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 204,
+    "chunk_type": "needle",
+    "needle_item_id": "0402Inv",
+    "text": "A message came in saying, \"I'm lactose intolerant,\" from Yuki."
+  },
+  {
+    "score": 0.2628376059067367,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 23,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "He drank his daquiri. \"I'm supposed to figure out why you don't, right?\" "
+  },
+  {
+    "score": 0.2619854014670802,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 18,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"You have to be a member to drink here,\" Ria said, as they sat on the roof, watching the jetpacks scud past. "
+  },
+  {
+    "score": 0.24701902202323064,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 336,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“She is an imbecile, that woman!” said Mrs. Enderby, with a sigh; “but she will hold her tongue. And you?” "
+  },
+  {
+    "score": 0.24698886830273914,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 2,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"We shouldn't have, except that Ruth Berry had to go away suddenly on account of her father's death. This room was empty, and Miss Maxwell asked if we might have it,\" returned Emma Jane. "
+  },
+  {
+    "score": 0.24431861373060815,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 292,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"It isn't that. Frederick is...\" Slows again, maddening, \"...different. Not completely— not like a Whiston, I guess. There's something lesser about him. He's a shameful drunk, you know. Everyone knows that. And when he isn't drunk, he's cruel.\" "
+  },
+  {
+    "score": 0.22779247038026745,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 220,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Luckily she attends to her own development,\" answered Miss Maxwell. \"In a sense she is independent of everything and everybody; she follows her saint without being conscious of it. But she needs a hundred practical things that money would buy for her, and alas! I have a slender purse.\" "
+  },
+  {
+    "score": 0.2226686051952286,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 9,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "The Sarge—sensible boobs, gigantic sword, longbow, gloriously orcish ugly phiz—moved her avatar impatiently. "
+  },
+  {
+    "score": 0.22209164795594977,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 171,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“I don’t want any supper to-night, thank you,” replied Lexy. "
+  },
+  {
+    "score": 0.22130815460749928,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 273,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Isaac—Tonker—reached out with his splayed hand and tried to touch Kate’s face. She pulled back and nearly flipped out of the boat. “Jerk.” She slapped his hand away. "
+  },
+  {
+    "score": 0.219798819505932,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 213,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“You have to be sixteen. They won’t take me until after my next birthday.” "
+  },
+  {
+    "score": 0.21954873868917682,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 17,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Call me Sarge!” Lucy’s accent was American, like an old TV show, and she lived somewhere in the middle of the country where it was all vowels, Iowa or Ohio. She was Anda’s best friend in-game but she was so hardcore it was boring sometimes. "
+  },
+  {
+    "score": 0.21742199610305987,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 105,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“What—I don’t—” "
+  },
+  {
+    "score": 0.215754685838856,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 354,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Time was running out. Somewhere down there, Kate was about to run out of air. Not a mere shell—though that would have been bad enough—but an inhabited human mind attached to a real human body. "
+  },
+  {
+    "score": 0.21354773631233626,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 280,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Adele, He's a walking coma. He's been switched off for so long, all you're talking to is a goddamn chip , he's not a goddamn person anymore. None of them are. My goddamn Grampa 's spent three-quarters of his goddamn life away . He's either an angry old bastard, or he's a goddamn zombie . You know that , right?\" "
+  },
+  {
+    "score": 0.21255356287581273,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 3,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"The great and only Max is more stiff and standoffish than ever this year,\" said Huldah. \"I've simply given up trying to please her, for there's no justice in her; she is good to her favorites, but she doesn't pay the least attention to anybody else, except to make sarcastic speeches about things that are none of her business. I wanted to tell her yesterday it was her place to teach me Latin, not manners.\" "
+  },
+  {
+    "score": 0.2061086824461348,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 29,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "That made her laugh, and she wasn’t the only one. Miss Cruickshanks and Mrs Danzig didn’t look amused, but they tried to hide it. "
+  },
+  {
+    "score": 0.20439551857137775,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 339,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“No, thank you,” said Lexy. “I’d rather go now. I dare say I can find something to eat in the village.” "
+  },
+  {
+    "score": 0.20385830270951147,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 89,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "The tablet, stuck in his waistband, spoke. It was the Series B man. \"Don't give them any more advice. You shouldn't be liable for what they do in this situation. Return to the bus.\" "
+  },
+  {
+    "score": 0.20055560999887448,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 53,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“It’s just that if you’re going to go down again tonight, we’ll save the dessert course for after, with a glass of wine or two. Otherwise we’ll give you wine now.” "
+  },
+  {
+    "score": 0.19775783347891626,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 140,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Now she was cold as ice, shivering nude on her thin ruin of a bed with her thin ruin of a body. She would be dead in a week. It was a death sentence, that bite. "
+  },
+  {
+    "score": 0.1973794743783655,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 247,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"I don't understand.\" "
+  },
+  {
+    "score": 0.19727690823692687,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 168,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "She covered her face with her hands and flung herself on the bed, sick and desperate. She could not see any one, could not speak to any one. When a knock came at her loor, she thrust her fingers into her ears and lay there, with her eyes shut tight, trembling from head to foot; but the knocking went on until she could endure it no longer. "
+  },
+  {
+    "score": 0.19580369548953971,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 148,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Oh, you can be rougher than that. My little critters love adapting to hard circumstances.\" She tossed the vampire high in the sky, let it come down on the floor, having righted itself in the air to take the drop on its armored back. \"You can't break it, it's made of garbage.\" "
+  },
+  {
+    "score": 0.19566928845819598,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 141,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "And she wouldn’t go clean. She’d shamble and scream and bite. Maybe Trover. Maybe Mata. Maybe she’d find Leeza and give her a hard bite before she went. "
+  },
+  {
+    "score": 0.19496500789930024,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 238,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“And this Pithica thing, it’s...bad?” hazarded Dawna anxiously. "
+  },
+  {
+    "score": 0.1938098375533278,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 40,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "When her guests were seated at the table, she retired, leaving them alone; but she did not go very far. She remained close to the door, so that she could look through the crack. She observed that Miss Moran seemed very lively and cheerful with this newcomer—though she had been quite as lively and cheerful with Captain Grey. "
+  },
+  {
+    "score": 0.1905036077482324,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 42,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "For the question which so troubled her was—which young man was the young man? "
+  },
+  {
+    "score": 0.1867919600675861,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 335,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "She washed her hands and face, brushed her hair, put on her own hat and jacket, and went downstairs again. Mrs. Enderby was standing in the tiny hall, and from the sitting room there came a sound of muffled sobbing. "
+  },
+  {
+    "score": 0.18415589141887503,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 98,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“We don’t make them give up Halliday. We make them take me.” "
+  },
+  {
+    "score": 0.18162856218900106,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 200,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Finch raised a hand weakly. “I can take care of them.” "
+  },
+  {
+    "score": 0.1790406871331029,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 277,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Oh, that foolishness again! Ethan's a good boy , is all. He remembers my birthday and Mother's Day, every year.\" "
+  },
+  {
+    "score": 0.17902018603719122,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 33,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Marcelina, can't you tell them we'll come back later?\" "
+  },
+  {
+    "score": 0.17735002428080265,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 249,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"You mean Emma.\" "
+  },
+  {
+    "score": 0.17603120075118522,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 38,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Charles Houseman, who had believed everything that Lexy had said, did not appear convinced of this; and for some inexplicable reason Lexy was not greatly displeased by his lack of belief. "
+  },
+  {
+    "score": 0.17384082276113796,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 338,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“There is no train until three o’clock. It is now after one. We shall have lunch directly.” "
+  },
+  {
+    "score": 0.17333392360529876,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 39,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Mrs. Royce was very much pleased to see her pet, Miss Moran, return. She was well disposed toward Mr. Houseman, too, and willingly agreed to put him up for a few days. She set to work at once to cook a good lunch for them, but she did not hum under her breath, as was her usual habit. In fact, she was greatly perplexed and worried. "
+  },
+  {
+    "score": 0.1731871375512449,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 257,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "› Sorry. I forgot. "
+  },
+  {
+    "score": 0.17309592677085192,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 245,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Here,...  got Dawna calmed down;...  sips, dabbing at her ruined makeup with a napkin. “I’m sorry, Ms. Russell,” she whispered, her voice shaking only slightly. “It’s so overwhelming.” "
+  },
+  {
+    "score": 0.1726148802523586,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 172,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Mrs. Royce expostulated and argued for a time, but she could not persuade Lexy even to unlock the door; and at last, with a worried sigh, she went downstairs again. "
+  },
+  {
+    "score": 0.17147928304589674,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 325,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Halliday wasn’t quick on the uptake—or maybe she knew, deep down, but didn’t want to believe. “Who?” she said. “Who did he give it to?” "
+  },
+  {
+    "score": 0.170872031250131,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 64,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Your parents don't know.\" "
+  },
+  {
+    "score": 0.17072802426827507,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 309,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I hated being weak. "
+  },
+  {
+    "score": 0.17063012288818563,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 202,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "He let out a strangled laugh that had no humor in it. “Believe me when I say that I’m currently viewing you as a child playing with a nuclear missile. This is above my pay grade, and I don’t care who’s holding the gun, but I’m not letting you out of my sight if I can help it. Even to be arrested.” He held out a hand to Tresting. “My badge, please?” "
+  },
+  {
+    "score": 0.16932165639201108,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 30,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“I am Liza the Organiza, and I kick arse. Seriously.” She tapped a key on her laptop and the screen behind her lit up. It was a game—not the one that Anda played, but something space-themed, a space-station with a rocketship in the background. “This is my avatar.” Sensible boobs, sensible armor, and a sword the size of the world. “In-game, they call me the Lizanator, Queen of the Spacelanes, El Presidente of the Clan Fahrenheit.” The Fahrenheits had chapters in every game. They were amazing and deadly and cool, and to her knowledge, Anda had never met one in the flesh. They had their own island in her game. Crikey. "
+  },
+  {
+    "score": 0.16839373761421605,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 242,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "She tried to nod, but she was trembling with the effort of not breaking down. She brought her fine-boned hands up to cover her face, breathing raggedly. "
+  },
+  {
+    "score": 0.16763783907791807,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 276,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Ethan was in maintenance mode. He was switched off. He said 'Yes,' because his subroutines didn't want to be any trouble. You know that, right?\" "
+  },
+  {
+    "score": 0.1675046765769853,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 106,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“No one can keep me in a box. They catch me, they’ll take me to Halliday, I’ll get us both out. Easy as pie.” "
+  },
+  {
+    "score": 0.16689437911818322,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 290,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"No one wanted a son like Frederick.\" She takes the hint, settles back into her steady rhythm. "
+  },
+  {
+    "score": 0.16650183683421776,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 121,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Ray thinks he might be experiencing some sort of lethal medical condition. He's having trouble taking a breath that's actually deep enough to satisfy what seems to be a severe case of oxygen deprivation. He suspects his brain itself is suffocating, a billion neurons a second snuffling vacuum, pitching over with a uniform scream. The idea of actually sucking in air to say something seems idiotic to him. \"It says I care about you. That I want you to be safe. Just put it on your finger. Please.\" "
+  },
+  {
+    "score": 0.16585466013237854,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 355,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Tonker shouted at him again, startling him. "
+  },
+  {
+    "score": 0.16473325755005508,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 92,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Lee-Daniel climbed the tree. He got up to the first surveyor's branch, Ole Stinky, and he gave the man a shove. He fell like a stone. He stepped on Stinky's branch, grabbed the kid by an arm and yanked, hard. The kid dropped, too. \"Down,\" he said to Elaine, and dropped, landing on the kid. "
+  },
+  {
+    "score": 0.16436735678998995,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 170,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Supper’s all on the table!” said Mrs. Royce’s cheerful voice. "
+  },
+  {
+    "score": 0.16409226043250813,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 225,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "If he told her, she'd be in it too -- if she wasn't already. If he told her, they'd figure out what they could get on her. He should just tell her nothing. Just go on inside and twist the occasional data-stream. He could be better at it than zbigkrot. No one would ever make an Anomaly out of him. Besides, so what if they did? It would be a few hours, days, months or years more that he could live on Campus. "
+  },
+  {
+    "score": 0.16249536268304168,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 394,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "They did. Van had Mayor McCheese and Felix used Smurfette. They skipped around the chat channels until they found one with some familiar handles. "
+  },
+  {
+    "score": 0.1616968015124815,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 78,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"My shift at the club,\" she said. \"I'll be trimming the lime trees and tending the mint patch and the cucumber frames all afternoon.\" She smiled and stopped him with a gesture. She bent down and plucked a blade of greenery from the untidy trail-edge. They were in Central Park, in one of the places where it felt like a primeval forest instead of an artful garden razed and built in the middle of the city. She uncapped her water bottle and poured water over the herb -- it looked like a blade of grass -- rubbing it between her forefinger and thumb to scrub at it. Then she tore it in two and handed him one piece, held the other to her nose, then ate it, nibbling and making her nose wrinkle like a rabbit's. He followed suit. Lemon, delicious and tangy. "
+  },
+  {
+    "score": 0.1616127857294054,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 288,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "She stops sharply. Kilgore wrestles his eyelids open and looks at her, backlit in the soft glow of the room's lamps. Her eyes have gone distant, hard, thoughtful. "
+  },
+  {
+    "score": 0.16143606564215024,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 81,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Especially when you consider what this is made of -- smoggy rain, dog piss, choked up air, and sunshine, and DNA. What a weird flavor to emerge from such a strange soup, don't you think?\" "
+  },
+  {
+    "score": 0.16101194603075253,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 320,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "In the background, Ray can hear a flurry of voices. Then the distinct, guttural burst of someone vomiting, their effluent making a wet slap against the deckplate. Off microphone, obviously to someone else, Becker barks, "
+  },
+  {
+    "score": 0.1607693975401707,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 41,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Well, I don’t know, I’m sure!” said Mrs. Royce to herself, with a sigh. “It beats me !” "
+  },
+  {
+    "score": 0.16051274536422283,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 26,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "But instead of maths, all the girls were called to assembly, and Liza the Organiza stood on the stage in front of Miss Cruickshanks the principal and Mrs Danzig, the useless counsellor. "
+  },
+  {
+    "score": 0.15906542309151575,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 79,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Lemon grass,\" she said. \"Terrible weed, of course. But doesn't it taste amazing?\" "
+  },
+  {
+    "score": 0.15902957099247353,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 326,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Arthur rolled his lips together, hesitating. “Your friend. Rita Martinez. She’s in the wind now.” "
+  },
+  {
+    "score": 0.15867953040086144,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 264,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I passed by her shelves in the living room, running my hand along the dust fronting the empty spaces. She’d denied anything was missing, but she’d clearly been lying. Why? What did that mean? "
+  },
+  {
+    "score": 0.158040442156643,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 14,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "› If I meant gold, I would have said gold. Can you go voice? "
+  },
+  {
+    "score": 0.15689322581243081,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 80,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "He nodded. The flavor lingered in his mouth. "
+  },
+  {
+    "score": 0.15656473427994003,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 61,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Yes! David, tell the creep to leave us alone. Tell him. "
+  },
+  {
+    "score": 0.1556266046027017,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 86,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Guess their parents couldn't figure out what was causing those pregnancies. So they just kept having more babies.\" I decided to try to insert some humor, deflect the conversation. \"Maybe we should tell Paula and Carly.\" "
+  },
+  {
+    "score": 0.15542071910395827,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 101,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Of course you can; that’s not the point!” "
+  },
+  {
+    "score": 0.15421868808037564,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 142,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Her breath was coming in little pants now. She bit her lip to keep from screaming. "
+  },
+  {
+    "score": 0.15400619499131846,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 193,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"They don't speak English when they don't want to,\" Cobra said. \"If I were you, I'd get down and stay down.\" Then he yelled...  him tittered nervously. "
+  },
+  {
+    "score": 0.15361077606587975,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 201,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I snorted. “I wouldn’t trust you to give me a band-aid for a paper cut.” "
+  },
+  {
+    "score": 0.15209926795644244,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 333,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Halliday lowered herself to the ground and sat back against the tree. The dirt and grass were still wet from the recent rain; it soaked through her slacks, but she didn’t seem to notice. Arthur crouched down next to her. “Sonya. You okay? Take a minute.” "
+  },
+  {
+    "score": 0.15205037329503926,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 173,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "The room was quite dark now, and the wind blowing in through the open window felt chill; but Lexy was too tired to close the window or light the gas. She was not drowsy. She lay stretched out, limp, overpowered with fatigue, but wide awake, and with a curious certainty that she was waiting for something. "
+  },
+  {
+    "score": 0.1517762429955434,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 180,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"But you wondered about their emotional well-being, these orphans on their way to a strange land amongst strange people.\" "
+  },
+  {
+    "score": 0.15161340981668175,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 174,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "There was another knock at the door, and this time Captain Grey’s voice spoke. "
+  },
+  {
+    "score": 0.14999212665163353,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 334,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "The last trace of what Lexy had called “mawkish self-pity” had vanished now. She was no longer concerned with Mrs. Enderby’s attitude toward herself. It didn’t matter. Finding another job didn’t matter, either. She had a little money due her, and she meant to use it—every penny of it—in finding Caroline. "
+  },
+  {
+    "score": 0.14981563125997438,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 370,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“I said freeze.” "
+  },
+  {
+    "score": 0.14633133497817105,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 49,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Robbie the Row-Boat?” she said, and choked a little. "
+  },
+  {
+    "score": 0.145857144188336,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 131,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Because?” Sarahh wanted to know. "
+  },
+  {
+    "score": 0.14528514366015371,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 198,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I looked at Leena. “Can you go out and tell them nothing’s wrong?” "
+  },
+  {
+    "score": 0.14467032872482946,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 248,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Frederick Whiston had quite a bit to say this morning in his official complaint to the captain after you put him on his ass. In between demanding that we either place you under arrest or shove you out an airlock, he managed to insinuate that you've managed to get yourself something of an entrance to the Whiston inner circle. Is that clearing things up for you?\" "
+  },
+  {
+    "score": 0.1444142387112577,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 330,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Maybe Zhang’s lying,” Arthur allowed. "
+  },
+  {
+    "score": 0.14411342870603444,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 269,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Robbie rowed for Isaac as he came up. Kate looked away as he climbed into the boat, not helping him with his weight belt or flippers. "
+  },
+  {
+    "score": 0.1440476259563384,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 73,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Can’t you make them go away?” I demanded. "
+  },
+  {
+    "score": 0.1438496125905787,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 104,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Come on, have you not met me?” I said. "
+  },
+  {
+    "score": 0.14374468268912322,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 337,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“I’ve got to do as I think best,” answered Lexy. “I’ll say good-by now, Mrs. Enderby.” "
+  },
+  {
+    "score": 0.14363132351772942,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 96,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“You know it’s true. Halliday is the one they really need. Unless he’s the one in charge, they’d never trade him for her.” "
+  },
+  {
+    "score": 0.1427679051820816,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 116,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Emma narrows her eyes at the shotgun pattern of the rings, then sets her fork down. She picks the one nearest to her, where it leans against her dinner plate. Like Rodriguez, she rolls it around between thumb and forefinger, holding it up to the light to examine the silver etching. "
+  },
+  {
+    "score": 0.14270377784210192,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 302,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "> Wait what? "
+  },
+  {
+    "score": 0.14253885217600273,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 322,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Ray stiffens, instantly alert. \"Who's there with you, Becker?\" Was the Chief determined to expose him? "
+  },
+  {
+    "score": 0.1424606330195232,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 87,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Very dumb.\" Arlene bit at a long, red, false fingernail, a perennial habit for as long as I'd known her. \"We should mind our own business, that's what we should do.\" "
+  },
+  {
+    "score": 0.14203390611688643,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 314,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "What if I stepped off the case and Halliday died? "
+  },
+  {
+    "score": 0.14163303300036229,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 182,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Amah nods. \"For some. Others have been without parents, comforts, love for several years. Those cases are more difficult, and it takes longer for the colony to embrace them-or for them to embrace the colony.\" "
+  },
+  {
+    "score": 0.1409262538586373,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 160,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“But that doesn’t make sense either! If they make it that obvious it’s a setup, why would they think we would be stupid enough to—” "
+  },
+  {
+    "score": 0.14089942149068352,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 317,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "A hesitation, as though he didn't trust the encryption. \"There's been a murder.\" "
+  },
+  {
+    "score": 0.14089535951797136,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 308,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "By the time I found a baggy sweatshirt I was short of breath. I sat back down on the mats and leaned back, pressing a hand against my side on top of the bandage. The pain was tolerable, but all of my energy seemed to have bled out on the floor of the abandoned diner. Fuck. "
+  },
+  {
+    "score": 0.14014779666828545,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 85,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Those kids could almost be twins. That little boy last week, and this girl. They look just alike. It's spooky.\" "
+  },
+  {
+    "score": 0.14014198490808596,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 270,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Kate hissed like a teakettle as he woodenly took off his fins and slid his mask down around his neck. "
+  },
+  {
+    "score": 0.14012104639810158,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 271,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Isaac sucked in a deep breath and looked all around himself, then patted himself from head to toe with splayed fingers. “You live like this?” he said. "
+  },
+  {
+    "score": 0.13969075692310046,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 227,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "It would be someone else. "
+  },
+  {
+    "score": 0.13957880814090223,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 7,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "› Money, Sarge? "
+  },
+  {
+    "score": 0.13695001604006787,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 316,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"What's going on?\" "
+  },
+  {
+    "score": 0.13630976873569145,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 387,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“What about Kelly?” Van said. "
+  },
+  {
+    "score": 0.13611933781461236,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 251,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Unbelievable. If he possessed anything resembling a personal life, he would resent this unstated willingness to mess with it. \"Freddy has misapprehended the nature and depth of our acquaintance.\"  \"That may be true, but it still places you closer to the family than anyone else.\" "
+  },
+  {
+    "score": 0.13584232517716185,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 55,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Oh, it’s just the reef. It attained sentience so it’s acting out a little. Like a colicky newborn.” "
+  },
+  {
+    "score": 0.1355944066058002,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 366,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Identify yourself.” "
+  },
+  {
+    "score": 0.13528963340204836,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 143,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "She pulled her clothes back on as quietly as she could and slipped out into the night to find the wizard, clutching her pea light. Many times she’d walked toward his house in the night, but she’d always turned back. Now she had to see him. "
+  },
+  {
+    "score": 0.13499796383797621,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 318,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Is that all? Ray thinks, but he's had enough sensitivity training to keep from actually saying it. \"I don't see why you're involving me in this.\" "
+  },
+  {
+    "score": 0.13485201754624015,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 291,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Freddy seems like a fuck up.\" "
+  },
+  {
+    "score": 0.13471510530158487,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 20,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"You can't buy your way in,\" she said. \"You have to work it off. It's a co-op. I planted this whole row of trees.\" She waved her arm, sloshing a little daquiri on the odd turf their loungers rested on. \"I planted the mint garden over there.\" It was a beautiful little patch, decorated with rocks and favored with a small stream that wended its way through them. "
+  },
+  {
+    "score": 0.13459533494483036,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 236,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Who? The cartel?” "
+  },
+  {
+    "score": 0.13421555504278382,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 99,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“ What?” "
+  },
+  {
+    "score": 0.13388982943341562,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 329,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“No,” said Halliday. Not as if she was in denial, simply as if she was stating a fact. “It’s not true.” "
+  },
+  {
+    "score": 0.13285098868276074,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 218,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"You needn't pretend you discovered her,\" interrupted Miss Maxwell warmly, \"for I did that myself.\" "
+  },
+  {
+    "score": 0.13256126309096425,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 129,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "The names rose up over each other, one after another. Pierre Boswell. Leticia Cooper. Adrian Clark Lopez. None of them meant anything. "
+  },
+  {
+    "score": 0.13249875914061374,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 90,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Lee-Daniel shrugged up at her, caught a whiff of gas that set his eyes to watering and looked back at the clearing. Cobra was lying on his side, face away from them. The girl was holding his hand, face covered by a placid mask, but he heard her sob. "
+  },
+  {
+    "score": 0.13215244595355533,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 147,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Never!\" The VC seemed to surprise himself with his vehemence. He fumbled the device, caught it, set it down reverently. "
+  },
+  {
+    "score": 0.13192284397917073,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 298,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "> Taking you? "
+  },
+  {
+    "score": 0.13188377389035577,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 223,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Well, about that.\" "
+  },
+  {
+    "score": 0.1316944781965169,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 110,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "which was in the darkest part of the room and just big enough for her and her equipment. She enlarged a hole in the raggedy curtain and checked to be sure she could shoot the room without being seen. Marita and I moved furniture around, with Sarah calling out instructions through the curtain. “You’re off cam- era. Can you move that chair to the right a couple of feet? Zen, "
+  },
+  {
+    "score": 0.13137723381493158,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 65,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Nope. And I don't know if I want them to.\" "
+  },
+  {
+    "score": 0.13107925195502654,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 156,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“It did? Where is she?” "
+  },
+  {
+    "score": 0.1302385978122141,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 59,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "In other words, get this pushy broad out of my face. "
+  },
+  {
+    "score": 0.12998807007425733,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 27,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Hullo chickens,” Liza said. She had an Australian accent. “Well, aren’t you lot just precious and bright and expectant with your pink upturned faces like a load of flowers staring up at the sky? "
+  },
+  {
+    "score": 0.12943398022715008,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 161,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Checker made a strangled sort of noise. "
+  },
+  {
+    "score": 0.12934074830988707,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 47,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“I’m Kate,” the woman said. "
+  },
+  {
+    "score": 0.12907526622326773,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 189,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"I'm not a combatant,\" he said, loudly, but in a steady voice. "
+  },
+  {
+    "score": 0.1283205517562938,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 184,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I had to go back, I decided. Just in case. After all, who knew what the consequences would be? I might regret it forever if I didn’t, and it would be simple enough to go back, grab the bottles, and dash away again. "
+  },
+  {
+    "score": 0.12808455723191595,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 133,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Zeke asked, “You have actual proof of this?” "
+  },
+  {
+    "score": 0.1267324635271125,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 139,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "She crossed her arms over her chest and hugged herself. That’s when she found the bite on her shoulder, just where it met her neck. It was swollen...  that had grown on the trees, she could taste them even now—and so hot it felt like a coal. In the...  the seeping wound left behind by one of the zombie’s few teeth. "
+  },
+  {
+    "score": 0.12605733022291307,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 52,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“You’re joking,” she said. "
+  },
+  {
+    "score": 0.12552311405067615,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 241,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Oh geez. “Look, Dawna, I’m going to get her out of this.” "
+  },
+  {
+    "score": 0.12507495195788945,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 11,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "› No, Sarge, "
+  },
+  {
+    "score": 0.1250416036078309,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 293,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I laughed aloud. "
+  },
+  {
+    "score": 0.12465098820247116,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 82,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Scott Ventri, key grip, took charge of handling the gear, dictating which equipment got loaded on first. I watched long enough to make sure everything was going okay, and then I joined Arlene, old friend and queen of outrageous makeup, on the other elevator. "
+  },
+  {
+    "score": 0.12320663010375878,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 392,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“What?” "
+  },
+  {
+    "score": 0.1226215313669898,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 261,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Where was Martinez? That was the only problem I seemed to have any shot at solving right now. The only thing I might not be useless at, even though I’d had less than zero success at it so far. "
+  },
+  {
+    "score": 0.12243927399231452,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 304,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I nearly choked. That was Trudy Doo's band -- as in Trudy Doo, the woman who had paid me and Jolu to update the indienet code. "
+  },
+  {
+    "score": 0.12206170681659481,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 219,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"She was an intimate friend of mine long before you ever came to Wareham,\" laughed Adam, and he told Miss Maxwell the circumstances of his first meeting with Rebecca. \"From the beginning I've tried to think of a way I could be useful in her development, but no reasonable solution seemed to offer itself.\" "
+  },
+  {
+    "score": 0.12194919262889957,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 239,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Considering people seem pretty willing to kill her over it, yeah.” "
+  },
+  {
+    "score": 0.12107468928422173,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 10,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "› Something wrong with my typing, Anda? "
+  },
+  {
+    "score": 0.12042871815065927,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 91,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Now! Back to the bus!\" "
+  },
+  {
+    "score": 0.12018223993330916,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 13,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "› You mean gold? "
+  },
+  {
+    "score": 0.1198519366760697,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 203,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“What are you going to do?” I demanded. "
+  },
+  {
+    "score": 0.11930924153718878,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 32,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "The last thing I wanted to do was this. "
+  },
+  {
+    "score": 0.11926578864815392,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 390,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Felix, you need to get home—” "
+  },
+  {
+    "score": 0.11892834366432167,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 138,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Seconds ticked by before another message gurgled in. "
+  },
+  {
+    "score": 0.11879040101134963,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 54,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“You want to know if I’m going to get back into that sea—” "
+  },
+  {
+    "score": 0.11870638530387535,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 278,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Subroutines, Adele,\" Sean said, straining to keep an inexplicable anger out of his voice. "
+  },
+  {
+    "score": 0.1183862572600576,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 356,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Where’d you come from?” "
+  },
+  {
+    "score": 0.11813113786828466,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 259,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Mars I’d have a better chance at. After all, I could do the fucking math. "
+  },
+  {
+    "score": 0.1177560315849777,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 294,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "> I'm here, I'm here. Laughing too hard to type is all. "
+  },
+  {
+    "score": 0.11752170818400974,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 244,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "She managed to nod, face still in her hands. "
+  },
+  {
+    "score": 0.11747623217792595,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 315,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "What if I stepped off the case and the DHS found Halliday and then buried her and Arthur and Checker and Pilar so deep no one ever saw them again? "
+  },
+  {
+    "score": 0.11724735677695693,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 44,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Ange, I've never thought more clearly in my whole life.\" "
+  },
+  {
+    "score": 0.11721991621672725,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 376,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“What are you going to do?” "
+  },
+  {
+    "score": 0.11715295602807044,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 374,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“I just came from a scene where twelve people were killed with a .45.” "
+  },
+  {
+    "score": 0.11631194255502685,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 70,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "She smiled and socked me in the shoulder. \"Kiddo, I've been at this game for a hell of a long time. So far, I've managed to spend more time free than behind bars. Paranoia is my friend.\" "
+  },
+  {
+    "score": 0.11625268336225435,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 120,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"I see you got enough for all your girlfriends.\" The dreaded raised eyebrow, suggesting he has either made a major relationship blunder or is acting irrationally. Very possibly both. \"What does this mean, this writing around the edges?\" "
+  },
+  {
+    "score": 0.11578105161312216,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 375,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Technically only seven of them had been killed with the gun. The other five had been napalmed. I swallowed. If they thought I was responsible for a mass murder...I’d whipped the gun up into a two-handed stance, but my left hand suddenly started to go stiff and numb and angry-feeling. I flexed it against the grip, trying not to be too obvious. "
+  },
+  {
+    "score": 0.11513936919964167,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 282,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Sean stalked off to his room and tried to record some field notes while flipping around in the weird, poky corners of the motel's cable system, Japanese game-shows and Hindu religious epics. He smoked half a cigarette, drank half a beer, tried to masturbate, and finally, slept. "
+  },
+  {
+    "score": 0.11487131716869077,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 263,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I didn’t know why I was here. Arthur was far more observant than I was; I wasn’t going to find anything of relevance that he hadn’t. I broke in and walked back through the rooms, looking for something, anything, that would give me a clue as to where she had run to. "
+  },
+  {
+    "score": 0.11419189830714296,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 224,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Yes?\" "
+  },
+  {
+    "score": 0.11364344234038498,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 217,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"The very thing!\" assented Adam heartily; \"but why should you take the whole responsibility? Why not let me help? I am greatly interested in the child, and have been for some years.\" "
+  },
+  {
+    "score": 0.11304333954619909,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 60,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"It's just business, Nicky,\" David said, trying to conjure an empty smile. \"Business and pleasure don't always mix.\" "
+  },
+  {
+    "score": 0.11265753621253473,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 135,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“She knows,” Sarahh said. And that was that. Zeke looked like he wanted to keep arguing about it, but then he looked at me and gave a small shrug. Okay. He’d take my word for it. Barely. "
+  },
+  {
+    "score": 0.11218128928344916,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 234,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "The thing that Arthur liked best about owning his own shop was that he could stock whatever he pleased, and if you didn't like it, you could just shop somewhere else. So there in the window were four ancient Cluedo sets rescued from a car-boot sale in Sussex; a pair of trousers sewn from a salvaged WWII bivouac tent; a small card advertising the availability of artisanal truffles hand-made by an autistically gifted chocolatier in Islington; a brick of Pu'er tea that had been made in Guyana by a Chinese family who'd emigrated a full century previous; and, just as of now, six small, handsomely made books. "
+  },
+  {
+    "score": 0.11214288602909325,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 360,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "He left an instance of himself running on the row-boat, of course. Unlike many humans, Robbie was comfortable with the idea of bifurcating and merging his intelligence when the time came and with terminating temporary instances. The part that made him Robbie was a lot more clearly delineated for him—unlike an uploaded human, most of whom harbored some deep, mystic superstitions about their “souls.” "
+  },
+  {
+    "score": 0.11194626005773164,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 152,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "A mall security guard nearly jumped out of his skin as he emerged. He reached for his pepper-spray and Arturo swept it out of his hand as he flipped his badge up and showed it to the man. “Police,” said, in the cop-voice, the one that worked on everyone except his daughter and his ex-wife and the bloody robots. "
+  },
+  {
+    "score": 0.11169807683688142,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 144,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "She passed three zombies in the dark, two dead on the ground and riddled with bullet holes, one leaning out a fifth-story window and screaming its incoherent rage out at the city. "
+  },
+  {
+    "score": 0.1105369759731449,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 153,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Sorry,” the guard said, recovering his pepper spray. He had an Oceanic twang in his voice, something Arturo had been hearing more and more as the crowded islands of the South Pacific boiled over UNATS. "
+  },
+  {
+    "score": 0.11026868443905456,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 134,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "A million words jammed together in my mouth that I couldn’t get out, like when you hit too many keys on an old-fashioned typewriter and they get stuck together. Proof? Like, women are supposed to take pictures when they’re being attacked or it didn’t happen? I wanted to punch that big nose of his. "
+  },
+  {
+    "score": 0.1101273299634734,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 388,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Felix felt like he was going to throw up. “We should get into the cage, now.” The cage had microparticulate air-filters. "
+  },
+  {
+    "score": 0.10972903724257282,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 222,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"I worried when you didn't check in for a couple days.\" "
+  },
+  {
+    "score": 0.10967754382095538,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 319,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"You will if you shut up and get down here.\" "
+  },
+  {
+    "score": 0.109435799251271,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 195,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Lee-Daniel turned around slowly, getting away from the harsh white light. Green blobs swam in his vision. He began, very gently, to sink to his knees, when out of the corner of his eye, he spotted Elaine and two of her crew, in silhouette, up in the boughs of a maple that they must have climbed as soon as the SQ arrived on the scene. More steps from the brush, the light coming closer. "
+  },
+  {
+    "score": 0.10934594360390429,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 313,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "That was before he went to the authorities. He doesn’t want you in on this anymore. "
+  },
+  {
+    "score": 0.10821118788864895,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 22,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"That's right,\" she said. \"I could.\" "
+  },
+  {
+    "score": 0.10791345842647725,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 342,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Honestly, it sort of slipped my mind. I'm having a little trouble thinking straight right now.\" "
+  },
+  {
+    "score": 0.10759454509033044,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 36,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "As we headed through the yard, the women smiled, then politely led us under the thatch overhang and into the hut. They both were short and Maya-sturdy, with white shifts and broad faces, and they exuded a confident intensity in their bearing, a powerful sense of self-knowledge. I tried...  stared at me as though they'd never heard the language. Then I remembered my first attempt to ask about Sarah. The women hadn't understood me then either. Or had they? "
+  },
+  {
+    "score": 0.10718694280804245,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 103,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“That—that you’re trying to offer yourself up as bait to people who nearly killed you and Arthur just this morning, twice, and have already kidnapped another person and what would make you think they’d want to keep you alive once they’d finished with you anyway? This is a terrible idea!” "
+  },
+  {
+    "score": 0.10705056064168057,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 177,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Some of our children are quite advanced. Others lag significantly behind the educational level they should have attained. Not all situations are ideal, as you can imagine, but all of the children in the Trust have great potential. We look for that potential and help them develop it. Perhaps it is not the ideal of mother, father, "
+  },
+  {
+    "score": 0.10685455744292596,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 281,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Sean, you're very upset,\" Adele said. \"Why don't you have a nice lie-down, and we'll talk in the morning. I can't wait to meet your father!\" "
+  },
+  {
+    "score": 0.10684487812755117,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 58,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Just trying to be helpful.\" He glared at me, then seemed to dismiss my presence. I disappeared from his radar as though lifted away by an alien spacecraft, and he turned back to David. \"You know, Dave, me and you've kinda drifted apart lately. Old friends oughtn'ta do that. We ought to keep more in touch. I think we get along okay.\" "
+  },
+  {
+    "score": 0.1067007195577553,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 237,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“The cops. Or at least, a cop we...ran into. I don’t know about the cartel.” "
+  },
+  {
+    "score": 0.1062393635753574,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 1,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Well, you were lucky when you met him! Gracious! I wish I could meet somebody like that. The way he keeps it up, too! It just hides your bed, doesn't it, and I always say that a bed takes the style off any room—specially when it's not made up; though you have an alcove, and it's the only one in the whole building. I don't see how you managed to get this good room when you're such new scholars,\" she finished discontentedly. "
+  },
+  {
+    "score": 0.1061389754875351,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 391,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“It’s a bioweapon,” Felix said. “Superbug. We’ll be OK in here, I think, so long as the filters hold out.” "
+  },
+  {
+    "score": 0.10608669652572321,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 16,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Hey, Lucy,” she said. "
+  },
+  {
+    "score": 0.10510525288708267,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 253,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "She typed, but then she started to key something and then stopped. "
+  },
+  {
+    "score": 0.10498746208136467,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 113,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Once everything was in place, I made a...  sharpen my brain before the show. When I checked the time on my phone, I remembered that picture I’d taken of Simon. The wall I’d built to keep it in a dark corner of my brain crumbled for a moment, but even though it made me feel a little sick and shaky, I was glad because I realized there was a good chance I would get arrested. I quickly composed an email to Char- lie from my Secret Avenger account, warning her the photo I had attached could be triggering, but Simon had been unmasked and his days of attacking women were over. "
+  },
+  {
+    "score": 0.10459717813633528,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 348,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "My watch said that I was lowering morale and I should stop. I got so angry, Mom! I told it to mind its own business! It said that it was minding its own business and did I want it to connect me with a maintenance operator to evaluate its judgment? "
+  },
+  {
+    "score": 0.104342630461856,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 332,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Arthur glared daggers at me, and I shut up. Ah. He was trying to make her feel better. "
+  },
+  {
+    "score": 0.10419266957818753,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 15,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Anda looked around. Her door was shut and she could hear her parents in the sitting-room watching something loud on telly. She turned up her music just to be safe and then slipped on her headset. They said it could noise-cancel a Blackhawk helicopter—it had better be able to overcome the little inductive speakers suction-cupped to the underside of her desk. She switched to voice. "
+  },
+  {
+    "score": 0.10394143555375596,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 344,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Don't go anywhere,\" he declared. \"I'll get back to you in five minutes.\" "
+  },
+  {
+    "score": 0.1036909431407337,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 31,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"I told them we could only stay for a minute,\" she went on. I sensed she was reluctant, but felt we had no choice. "
+  },
+  {
+    "score": 0.10344318306637965,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 159,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“It doesn’t make any sense otherwise. Why would it go offline and then pop back up again? Here?” "
+  },
+  {
+    "score": 0.10335154897265125,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 321,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Get him out of here, Anderson! This is a crime scene, gentlemen. Let's try to give it the proper respect.\" "
+  },
+  {
+    "score": 0.10328995948172941,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 371,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I stopped moving. "
+  },
+  {
+    "score": 0.10325039956932172,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 272,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Yes, Tonker, that’s how I live. I enjoy it. If you don’t enjoy it, don’t let the door hit you in the ass on the way out.” "
+  },
+  {
+    "score": 0.10284235439716076,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 340,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "She was not in the least angry now, or hurt; only she wanted to get away, by herself, to think this out. "
+  },
+  {
+    "score": 0.10228171262586462,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 226,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "And if it wasn't him, it would be someone else. "
+  },
+  {
+    "score": 0.1018637146731717,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 35,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Well, I thought, this could give me the time I need, the personal moment, to get through to her. Even after I locate Sarah, spiriting her out isn't going to be simple. I've got to make Marcelina understand what's really going on, then get her to help us. "
+  },
+  {
+    "score": 0.10176195497016222,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 118,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"I want you to wear it.\" He's breathing hard. Too hard, really. \"All the time.\" "
+  },
+  {
+    "score": 0.10172845440323848,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 83,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"You notice it?\" she whispered. The door had just closed. "
+  },
+  {
+    "score": 0.1013619109161015,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 353,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“No,” the reef admitted. "
+  },
+  {
+    "score": 0.10131366546590866,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 62,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Doing business with me ain't a pleasure?\" Nicky Russo asked, hurt filling his voice. He'd brought out a large Havana and was rolling it in between his thumb and forefinger. \"I figured we was best friends. Paisans .\" "
+  },
+  {
+    "score": 0.10124330632960941,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 181,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Sure. I mean, kids are resilient, but losing your parents is a pretty big blow to try to bounce back from.\" "
+  },
+  {
+    "score": 0.1008497779201379,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 114,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Arthur watched as I flipped. After a few minutes he dug into his pocket and held out a sheet of white paper that had been folded so many times it had been creased into a tiny square. “Did also find this on the table. It’s a note to Sonya.” "
+  },
+  {
+    "score": 0.10080143986611148,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 8,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Ever since she’d risen to platoon leader, she’d been getting more missions, but they paid gold —money wasn’t really something you talked about in-game. "
+  },
+  {
+    "score": 0.10016457247414293,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 216,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"She does indeed, and I am considering whether I can take her away with me. I always go South for the spring vacation, traveling by sea to Old Point Comfort, and rusticating in some quiet spot near by. I should like nothing better than to have Rebecca for a companion.\" "
+  },
+  {
+    "score": 0.09991092619095712,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 327,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "One of Halliday’s knees buckled. She reached out and caught herself against a tree. "
+  },
+  {
+    "score": 0.09915943050522992,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 191,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"They will shoot you, you know,\" Cobra said. \"They shoot. They think they're playing cowboys and indians.\" He sounded very calm. "
+  },
+  {
+    "score": 0.09857247844910719,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 194,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Cobra's making them mad,\" she said, giggling again. "
+  },
+  {
+    "score": 0.0979346120040753,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 246,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Be careful. Be anonymous. Most of all, be delicate. There are potential ramifications here that could shake the foundations of frontier space. \" "
+  },
+  {
+    "score": 0.0970896349685908,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 71,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I was like a zombie the next day in school. I'd totaled about three hours of sleep, and even three cups...  jump-start my brain. The...  too easy to get acclimated to it, so you have to take higher and higher doses just to get above normal. "
+  },
+  {
+    "score": 0.09707844158581834,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 84,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Notice what?\" I knew full well what she was talking about. But it just felt too bizarre. "
+  },
+  {
+    "score": 0.09596879225830277,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 115,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I unfolded it. Martinez’s handwriting was cramped and meandering; she didn’t stay to horizontal lines but wrote in slanting angles and curled around the edges of the paper. My dear Sonya, the note began. I have done a terrible thing...I destroyed everything you have worked for. The world is dust, I made mathematics dust, your mathematics, our mathematics...I wish I knew whether you could forgive me. I do not know if I will be able to forgive myself. ‘Forgiveness’ is such an emotional term, is it not? When I say I do not know if I will be able to forgive myself, I mean that in the most literal terms, as I do not know if ‘forgiveness’ is the right word: I am lacking definitions, and I find myself lost. But I digress...perhaps I can still apologize in the absence of fault, that I broke your world. I am sorry. "
+  },
+  {
+    "score": 0.09583538002901912,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 150,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "He approached the R Peeds cautiously, using his copper’s override to make the dumb little positronic brain in the emergency exit nearest their last known position open up for him without tipping off the building’s central brain. "
+  },
+  {
+    "score": 0.09530560785115655,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 381,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "He pulled a face. “Looking for excess crazy? How will I know?” "
+  },
+  {
+    "score": 0.09472369789110231,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 94,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Elaine jumped down, holding her laserpointer in her hand. "
+  },
+  {
+    "score": 0.09448152383892268,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 162,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I groaned. “Tresting’s going in, isn’t he.” "
+  },
+  {
+    "score": 0.09415327908913086,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 190,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "He walked toward the bus, hands still in the air. \"I am not a combatant,\" he said again. A laser dot climbed his toe, his leg, centered on his gut. He looked down at it. "
+  },
+  {
+    "score": 0.09357083667466008,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 43,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I held Ange out at arm's length and looked her up and down and up and down. I held her cheeks and stared through her thick-framed glasses into her big, mischievous tilted eyes. I ran my fingers through her hair. "
+  },
+  {
+    "score": 0.09354077988692418,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 284,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"And our fathers depended so much on his goodwill for their jobs, they wanted to emulate him, which meant they wanted their daughters to emulate Emma. They wanted us to be Emma. \" "
+  },
+  {
+    "score": 0.09301661454890421,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 377,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Well, what can we do?” I pointed out. "
+  },
+  {
+    "score": 0.09298242723566227,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 372,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“That’s a .45,” the agent observed. "
+  },
+  {
+    "score": 0.09286015475357527,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 275,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Yes, Sean?\" "
+  },
+  {
+    "score": 0.092808132373427,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 287,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"And their sons to be like Frederick,\" he groans. "
+  },
+  {
+    "score": 0.09276607222171569,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 102,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“What is the point, then?” "
+  },
+  {
+    "score": 0.09109686003579637,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 165,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Hence the needing backup.” "
+  },
+  {
+    "score": 0.08931604375260882,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 380,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“What if we watch each other?” I said suddenly. “It’s not foolproof, but it’s how—well, Rio could tell, with me. We can keep in contact, warn each other if we get crazy.” "
+  },
+  {
+    "score": 0.08860283195619201,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 240,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "She started tearing up again. "
+  },
+  {
+    "score": 0.08852035107625617,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 283,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "He built much of the city, drew it up from his own designs. Not a tavern or a hotel or even a home could be built unless the plans were submitted to him first. He controlled everything. "
+  },
+  {
+    "score": 0.08830956691390475,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 341,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"You got the prick's license number?\" he exclaimed. \"Why the hell didn't you say so?\" "
+  },
+  {
+    "score": 0.08813007108165641,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 132,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Because he uses his position in activist circles to assault women.” "
+  },
+  {
+    "score": 0.08757442976406962,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 250,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"I do.\" "
+  },
+  {
+    "score": 0.08685579997875413,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 231,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Lawrence?\" "
+  },
+  {
+    "score": 0.08671630033131562,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 37,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "The room they ushered us into had no windows, but there was cool, shadowy morning light filtering through the up­right wooden slats of the walls, laying dim stripes across the earthen floor. A cooking fire smoldered in a central hearth, and from the smoke-blackened roof beams dangled dried gourds, bundles of tobacco, netted bags of onions and squash, and several leaf-wrapped blocks of salt. The room smelled of ancient smoke, sweet and pungent. "
+  },
+  {
+    "score": 0.08666446815796573,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 125,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I stood staring at it. I had to go inside. "
+  },
+  {
+    "score": 0.0866163900783756,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 323,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Because it sounded to Ray's straining ears as if he had an entire team in place already. A complete klatch of security personnel who theoretically had no need to know they had their very own pet spook on board Paraclete. And Becker, beckerbeckerbecker, understood this! Ray could hear it when he spoke, his consummate understanding of all the things he was jeopardizing. And still he went forward. A surge of adrenaline like an electrical current ripples through Ray's body. "
+  },
+  {
+    "score": 0.08629521647773847,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 169,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Yes?” she said, sitting up. "
+  },
+  {
+    "score": 0.08606617027511401,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 50,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“They named me at the factory,” he said. He labored to keep any recrimination out of his voice. Of course it was funny. That’s why it was his name. "
+  },
+  {
+    "score": 0.08587115253981055,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 350,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Probably?” "
+  },
+  {
+    "score": 0.08455177709270066,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 389,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "They ran upstairs to the big cage. Felix opened the door and then let it hiss shut behind him. "
+  },
+  {
+    "score": 0.08386391181010673,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 228,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"I just wanted to say good bye, and thanks. I suspect I'm not going to see you again.\" "
+  },
+  {
+    "score": 0.08378470437720731,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 199,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Tresting shook his head. “Too many. Shit. They already think something’s going down here. Someone must’ve seen us pull a weapon.” "
+  },
+  {
+    "score": 0.08363868070731031,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 56,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"That ain't the point, exactly,\" Russo said, shifting uncomfortably. \"Thing is, Roma could do good distribution for you. We work with a lot of people.\" "
+  },
+  {
+    "score": 0.08293766378687087,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 100,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“We convince them somehow that she needs help. That I wrote part of the proof. Whatever. You drop whatever electronic hints will make them think that.” I ignored the edge of recklessness limning my brain. This plan was perfect. “It’ll work. I can pass muster.” "
+  },
+  {
+    "score": 0.08243886551643617,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 378,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Arthur took a deep breath. “Keep making the best decisions we can, I guess.” "
+  },
+  {
+    "score": 0.08213995844221772,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 331,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Oh, come on, why would he?” I said. “Plus it makes sense from the beginning; Martinez knew she was working on it and—” "
+  },
+  {
+    "score": 0.0820110646430534,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 128,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I stepped carefully between the walls of memory and time. Why had I come here? "
+  },
+  {
+    "score": 0.08103987722961589,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 359,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "It was the work of a few milliseconds to pry open the Isaac shell and boot the reef out. Robbie had never done this, but he was still flawless. Some of his probabilistic subsystems had concluded that this was a possibility several trillion cycles previously and had been rehearsing the task below Robbie’s threshold for consciousness. "
+  },
+  {
+    "score": 0.0810156856397474,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 112,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Angle that couch so . . . that’s good.” Sarahh tested the livestream; she was sending the film to Zeke and Nikko at the hotel using a portable hotspot so that there would be an offsite copy if her cam- era was confiscated. "
+  },
+  {
+    "score": 0.07974148319099307,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 274,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Sean snuck a look at Adele. She was wincing into the light, following it like a sunflower. \"Adele,\" he said. "
+  },
+  {
+    "score": 0.07870642186032883,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 93,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Leave them,\" the Series A man said. \"We aren't insured --\" "
+  },
+  {
+    "score": 0.07869390897657408,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 285,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "She digs her pelvis deep into his, and Kilgore has to grip the sheets in his fists and curl his toes until they crackle to keep her from ending it all right there. "
+  },
+  {
+    "score": 0.07714384229210955,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 72,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“For the love of God, you are unbelievable!” he exclaimed. “Do you have any idea what kind of a situation you’re in? I’m tracking it in real time here, and I didn’t know LA had that many police resources. Either Tokyo called about an enormous lizard, or they think you’re a domestic terrorist who—” "
+  },
+  {
+    "score": 0.07649111420823682,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 51,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“It’s all right, Kate,” he said. “We’ll be back at the boat in a few minutes. They’ve got dinner on. Do you think you’ll want a night dive?” "
+  },
+  {
+    "score": 0.0761855724149962,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 301,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "> Oki -- then I'll take YOU. Saturday. Dolores Park. Illegal open air concert. Be there or be a dodecahedron. "
+  },
+  {
+    "score": 0.07577805142386773,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 75,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Thanks but no thanks,” I said. “I’ll find another way.” "
+  },
+  {
+    "score": 0.07477497476659782,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 312,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I felt Arthur’s hand on my elbow in the bar again, heard the tension in his voice as he asked for help. "
+  },
+  {
+    "score": 0.07444231970304067,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 196,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "We all jumped. "
+  },
+  {
+    "score": 0.0743057594161501,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 145,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "He picked up another piece. This one was purely sculptural, made from several generations of iPhones, their screens carved into abstract shapes and then painted with networked OLEDs that stitched them together into a single display. The abstract shapes and colors combined with the device's aggressive incursions on your PAN to give the sense of holding a vampire, something transgressive and savage. Dangerous. \"When was the last time you owned a device that felt that dangerous?\" "
+  },
+  {
+    "score": 0.07423493325466281,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 4,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "her sergeant said to her, "
+  },
+  {
+    "score": 0.07396277488871511,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 384,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Yeah.” "
+  },
+  {
+    "score": 0.07352216182935196,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 215,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Say, would you buy some stuff for me?” I dug the wad of cash out of my pocket. "
+  },
+  {
+    "score": 0.07326035952191846,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 364,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Her eyes flicked around the bomb lab. "
+  },
+  {
+    "score": 0.07315489461534809,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 179,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Ray feels a flush of embarrassment. \"I didn't intend to sound critical.\" "
+  },
+  {
+    "score": 0.07297937152222267,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 137,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "<nikko> done <Zen> how' d it go? "
+  },
+  {
+    "score": 0.0729436929713797,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 373,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "The non sequitur threw me. “Nineteen-elevens usually are.” "
+  },
+  {
+    "score": 0.07265124576772643,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 361,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Further down the arcade, the investors were waving their tokens over a trading table, playing the instant futures market. An aerostat overhead mirrored the gameplay, and as Lee-Daniel watched, MacDiarmid doubled his money on a short-odds bet on two cherries and a lemon, then Earnshaw lost big when his long-odds investment on uranium and coal came back with two windmills and a photovoltaic array. "
+  },
+  {
+    "score": 0.07254560814769491,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 349,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I'd never mouthed-off to my watch before. The idea of talking to a real person about it scared me, but I remembered that even though I was driving a truck, I was also a Special Vice president, and that made me almost everybody's boss. I said, \"Yes!\" Vasquez looked at me like I'd gone nuts! "
+  },
+  {
+    "score": 0.07254258019331847,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 19,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"I'm not surprised,\" he said. \"It must be expensive.\" "
+  },
+  {
+    "score": 0.07246165709479105,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 289,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"What?\" he says, and rolls back and forth beneath her to prod her on. "
+  },
+  {
+    "score": 0.07219650723219416,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 76,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Another way? SWAT’s moving in! I already faked a 911 call from a few blocks away saying someone had seen you and they had enough people on the ground to cover it; some poor Pakistani girl got tackled by mistake and I would not have wanted to be her. You are in deep trouble! Are you seeing —” "
+  },
+  {
+    "score": 0.07184993116184245,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 243,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I’m not great with people, but I tried. I reached out and put a hand on her thin shoulder. The motion felt very contrived. “Hey, don’t worry. We’re going to find out what this Pithica thing is, and why people think Courtney is involved in it, and then we’re going to shut them down.” "
+  },
+  {
+    "score": 0.07145780690586957,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 176,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"I'm a little surprised by the curriculum. It's quite advanced.\" "
+  },
+  {
+    "score": 0.07066990095901646,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 77,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“I’m right in the middle of it, thanks,” I snapped in a whisper. “Look, can’t you just issue some fake orders or something? All I need is a distraction.” "
+  },
+  {
+    "score": 0.07043188949671471,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 279,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Humph! Subroutines!\" "
+  },
+  {
+    "score": 0.07023815403741858,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 175,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Coop them up, drill them with books and tests.\" "
+  },
+  {
+    "score": 0.06997372800808373,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 382,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I punched him in the arm again. "
+  },
+  {
+    "score": 0.06905529776184438,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 310,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "It didn’t really matter right now, though, did it? I was out of it all. I could leave finding Halliday and saving the global economy to the NSA and Homeland Security. They’d find her and fix things, or they wouldn’t, but either way, someone else was on this case. It didn’t have to be me. "
+  },
+  {
+    "score": 0.06885572628253418,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 154,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Before them, in a pile, were many dead robots: both of the R Peed units, a pair of mall-sweepers, a flying cambot, and a squat, octopus-armed maintenance robot, lying in a lifeless tangle. Some of them were charred around their seams, and there was the smell of fried motherboards in the air. "
+  },
+  {
+    "score": 0.06835029290248533,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 136,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "My phone gave a loud blurp. "
+  },
+  {
+    "score": 0.06830492890276466,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 328,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“We think she’s the one stole your work in the first place,” said Arthur, very gently. "
+  },
+  {
+    "score": 0.06829025974127036,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 211,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“That thing where you can go to college while you’re in high school?” "
+  },
+  {
+    "score": 0.06803096263037212,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 367,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I should have been more suspicious of her sudden willingness to talk, but I missed it. “You first.” "
+  },
+  {
+    "score": 0.06779727217594608,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 88,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Works for me. But it also proves we were smart not to shoot any footage of the kids. The whole world would realize something's funny.\" Then I had an idea. \"Want to come downtown to my place after we unload? Have some deep thoughts over what all this means?\" "
+  },
+  {
+    "score": 0.06755910597846095,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 255,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "› And my boss is dead. They’re probably all dead. The whole Bay Area got hit hard, and then there was the quake. "
+  },
+  {
+    "score": 0.06695930091398945,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 235,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“I don’t know yet. But some people think Courtney’s involved in it.” "
+  },
+  {
+    "score": 0.06691818184994683,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 233,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "He closed his eyes and watched the blue satin ribbons tumble, like silky water licking over a waterfall. He could get to the place that took him to anywhere. That was all that mattered. "
+  },
+  {
+    "score": 0.06674888893417978,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 197,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Tresting went to the window and peeked around the closed blinds. He swore softly. “Cops.” "
+  },
+  {
+    "score": 0.0666510164148661,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 369,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "DHS. I wasn’t sure if that was better or worse than the NSA; I didn’t know much about federal law enforcement. I also didn’t know how willing she’d be to shoot me if I didn’t comply. “We don’t want to fire guns in here anyway,” I said, shifting my weight so I moved toward the door by an inch. “Who knows what might go off?” "
+  },
+  {
+    "score": 0.06656767616337636,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 109,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "The DHS officers had bags under their eyes as they squinted at their screens, prodding mistrustfully at their keyboards with sausage fingers. No wonder it was taking four hours to get out of the goddamned airport. "
+  },
+  {
+    "score": 0.06627924231459513,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 12,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "she typed. "
+  },
+  {
+    "score": 0.06514708145830313,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 324,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“He tried to give it to someone else. Someone who was gonna release it, she said, after a little time for the crypto geeks to put safeguards in place. That person burned it instead.” "
+  },
+  {
+    "score": 0.06497786343883437,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 267,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "His telemetry alerted him to the divers. An hour had slipped by and they were ascending slowly, separated by fifty meters. That wasn’t good. They were supposed to remain in visual contact through the whole dive, especially the ascent. He rowed over to Kate first, shifting his ballast so that his stern dipped low, making for an easier scramble into the boat. "
+  },
+  {
+    "score": 0.06429364771263531,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 258,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "› It’s OK. We all lost people, right? "
+  },
+  {
+    "score": 0.06418030171404236,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 265,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I had no idea. "
+  },
+  {
+    "score": 0.06408859916936864,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 303,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "> Don't you even read Xnet? It's all over the place. You ever hear of the Speedwhores? "
+  },
+  {
+    "score": 0.06242377619314163,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 68,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Yes, I'm sure that can be arranged. When you come by, tell the receptionist that you're Mr Brown, to see me. They know what that means. No note will be taken of you coming, and all the security camera footage for the day will be automatically scrubbed and the cameras deactivated until you leave.\" "
+  },
+  {
+    "score": 0.0620031579183828,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 21,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Forgive me for saying this,\" he said, \"but you must earn a lot of money. A lot , I'm thinking.\" She nodded, unembarrassed, even waggled her eyebrows a bit. \"So you could, I don't know, you could probably build one of these on any of the buildings that Viktor owns in Manhattan. Just like this. Even keep a little staff on board. Give out memberships as perks for your senior management team.\" "
+  },
+  {
+    "score": 0.06181997571314652,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 214,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Oh, I thought you were older. Watch out for deadlines, any- way. You have to apply, like, months and months before the semester starts. I could have gone in my junior year, but I didn’t find out about it until it was too late.” "
+  },
+  {
+    "score": 0.061778216439850445,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 74,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Sure, I’ll wave my magic wand and, oh, wait, no, we don’t live in a mystical fairyland. But fortunately for your pwned self, we do live in a mystical bureaucracy land, and I’m telling you, go surrender. I swear to you, I have it covered.” "
+  },
+  {
+    "score": 0.06171019192464753,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 256,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "They’d watched the USGS’s automated data-stream from the 6.9 that trashed northern Cal from Gilroy to Sebastopol. Soma webcams revealed the scope of the damage—gas main explosions, seismically retrofitted buildings crumpling like piles of children’s blocks after a good kicking. The Googleplex, floating on a series of gigantic steel springs, had shook like a plateful of jello, but the racks had stayed in place and the worst injury they’d had was a badly bruised eye on a sysadmin who’d caught a flying cable-crimper in the face. "
+  },
+  {
+    "score": 0.06159666016561158,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 95,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Run!\" Lee-Daniel said, shoving at the two surveyors, then taking off, running blindly in the moonlight, whacking into tree-trunks, tripping. "
+  },
+  {
+    "score": 0.060337301072234686,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 166,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Okay. When and where?” "
+  },
+  {
+    "score": 0.05818973487250529,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 295,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "> Well at least my IM comedy-fu is still mighty. "
+  },
+  {
+    "score": 0.05808307453878082,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 299,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "> On our next adventure? "
+  },
+  {
+    "score": 0.057432599690090104,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 395,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Felix typed: I’m in "
+  },
+  {
+    "score": 0.057142652529517425,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 358,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "The Free Spirit and its ships’ boats all had root on the shells, so they could perform diagnostics and maintenance and take control in emergencies. This was an emergency. "
+  },
+  {
+    "score": 0.054767003608287936,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 122,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I sat for a while longer. "
+  },
+  {
+    "score": 0.054337597886976154,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 126,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Fortunately, that was easy. "
+  },
+  {
+    "score": 0.0518963408677046,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 46,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Yes,” Robbie said. “And at your service, Asimov be blessed.” His cameras spotted her eyes rolling, and that stung. He tried to keep his thoughts pious, though. The point of Asimovism wasn’t to inspire gratitude in humans, it was to give purpose to the long, long life. "
+  },
+  {
+    "score": 0.051616031114625496,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 45,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "She kissed me then, and I kissed her back, and it was some time before we went out for that burrito. "
+  },
+  {
+    "score": 0.051248311269047504,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 254,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "› No of course not. I believe the Popovich Hypothesis. This is a bunch of assholes all using the rest for cover. But China put them down harder and faster than anyone else. Maybe we’ve finally found a use for totalitarian states. "
+  },
+  {
+    "score": 0.05029296449533519,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 34,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"It's . . . it's important.\" She was beckoning for me. \"Please.\" "
+  },
+  {
+    "score": 0.04965787879669438,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 379,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "And hope that nothing had wormed its way into our brains, ticking like a time bomb, waiting to make us betray ourselves. I wasn’t happy about it either. But we had no way to know. "
+  },
+  {
+    "score": 0.048562998394722924,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 28,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Warms me fecking heart it does.” "
+  },
+  {
+    "score": 0.048074674776510534,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 66,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"That's something you're going to have to work out. I need to think about this. Can you come by my office? I'd like to talk to you about what this means, exactly.\" "
+  },
+  {
+    "score": 0.04787658855652335,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 164,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“He thinks they’re waiting for him, and he’s going in anyway.” "
+  },
+  {
+    "score": 0.0469104338679466,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 363,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“I’d rather talk right here,” I said. "
+  },
+  {
+    "score": 0.04664651236985856,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 368,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Department of Homeland Security. If we’re on the same side, put down the weapon.” "
+  },
+  {
+    "score": 0.046624817274020874,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 252,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"And you want me to exploit my connections? For what purpose? To find an easy way to break it to them or to convince them not to sue the FSA for criminal negligence?\" "
+  },
+  {
+    "score": 0.04589127982730664,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 123,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "In the end, it wasn’t a choice. I had to figure out where this feeling was leading me, whether or not whoever had set this up was counting on that. I stood up and walked down the path. My gun was in my hand. "
+  },
+  {
+    "score": 0.04566125296651582,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 393,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Get on IRC,” he said. "
+  },
+  {
+    "score": 0.04465508848046152,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 205,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“You are free to listen in,” he said, picking up a receipt that was lying with a pile of...  STING OPERATION IN PROGRESS on the back of it. He folded it into his badge holder and stood up, some of his previous equanimity returning. “Now, I suggest you all stay out of sight.” Without waiting for our response, he moved toward the door. "
+  },
+  {
+    "score": 0.04388244549090368,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 117,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"It's a ring,\" she says. "
+  },
+  {
+    "score": 0.0428954272302005,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 346,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "He said, \"I don't know what you're complaining about. It beats having it shout at you all the time. It just means you're doing all right. When I'm out with the new guy, this thing never shuts up. It just yammers on and on about how late we are, how many more pickups we have to do, what percent of our pickups we've been late for. I got so mad last week, I shouted at it: 'Don't tell me! Tell the retard who's driving!'\" "
+  },
+  {
+    "score": 0.042527059995645454,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 351,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“We’re pretty sure.” "
+  },
+  {
+    "score": 0.041606758678018975,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 221,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"It's very good to hear your voice,\" he said. He meant it. He wondered if she knew about the Securitat's campus snitches. He wondered if she was one. But it was good to hear her voice. His pan let him know that whatever he was doing was making him feel great. He didn't need his pan to tell him that, though. "
+  },
+  {
+    "score": 0.04112825597252853,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 232,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "He hung up. The Securitat van was visible now, streaking toward the Campus wall. "
+  },
+  {
+    "score": 0.04092763792460921,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 362,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Amen to that, bro,\" said Elaine, who ran two squads of surveyors. She was all lean muscle and blackfly repellent and mail-order outdoorwear, handily capable of living off the land for weeks while trekking the bush, homing in on optimal repeater locations. At the Akwesahsne Sovereign, she'd broken the hearts of a half-dozen starry-eyed Mohawk Warriors who'd puppydogged after her as she shlepped the length and breadth of their territory, warchalking neon arrows to indicate RF shadows cast by especially leafy trees and outcroppings of granite Canadian Shield. That was before the Surete du Quebec arrived on the scene and it all went pear-shaped. "
+  },
+  {
+    "score": 0.04006237890092204,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 311,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I could dig myself in somewhere and try to sleep and take spectacular amounts of narcotics until I healed. "
+  },
+  {
+    "score": 0.03955616025244467,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 163,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“That would be a yes.” "
+  },
+  {
+    "score": 0.03930100531421623,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 192,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"I am not a combatant,\" he said again, taking another step forward. A second red dot joined the first, climbing his leg and resting within inches of the first, dancing and bobbing like a firefly. From the woods,...  Lee-Daniel said. "
+  },
+  {
+    "score": 0.03879222081331596,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 6,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "› how would you like to make some money? "
+  },
+  {
+    "score": 0.03871620353595998,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 365,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“I’m not one of the people who built this place,” I assured her. “I’ve been tracking them down, just like you.” "
+  },
+  {
+    "score": 0.038687099035300425,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 209,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Yeah. It’s T-A-I-L-S. Just DuckDuckGo it.” "
+  },
+  {
+    "score": 0.033737060788250756,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 343,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Fortunately my short-term memory is pretty good, even when I'm stressed, so I spewed it out. "
+  },
+  {
+    "score": 0.03358427010749183,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 119,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"You got me a ring?\"  \"Not that kind of ring. Just a thing. A—\" "
+  },
+  {
+    "score": 0.0334486525724983,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 297,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "> Yeah, it usually is. Where are you taking me? "
+  },
+  {
+    "score": 0.03292921781451858,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 229,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Off in the distance now, the sound of the Securitat van's happy little song. His pan let him know that he was breathing quickly and shallowly and he slowed his breathing down until it let up on him. "
+  },
+  {
+    "score": 0.03292921781451858,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 230,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Off in the distance now, the sound of the Securitat van's happy little song. His pan let him know that he was breathing quickly and shallowly and he slowed his breathing down until it let up on him. "
+  },
+  {
+    "score": 0.03202067272264126,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 300,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "> I didn't really have anything planned. "
+  },
+  {
+    "score": 0.0311588003886073,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 206,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“No. I just bought a cheap Windows laptop. I keep meaning to learn how to install a different operating system.” "
+  },
+  {
+    "score": 0.031114510776533186,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 63,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Yeah,\" I said. \"I guess it does.\" "
+  },
+  {
+    "score": 0.030885395131536143,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 357,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Robbie knew he was right. And he knew what he had to do. "
+  },
+  {
+    "score": 0.030244918665783563,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 69,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Wow,\" I said. \"You think like I do.\" "
+  },
+  {
+    "score": 0.029881924144724188,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 97,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Checker leaned back and crossed his arms. “All right, it seems like you’ve got an idea. Let’s hear it.” "
+  },
+  {
+    "score": 0.029295334816825808,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 305,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "> Yeah I've heard of them. "
+  },
+  {
+    "score": 0.02867395778574011,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 352,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“I’m backed up,” Robbie said. “Fully, as of five minutes ago. Are you backed up?” "
+  },
+  {
+    "score": 0.028322115848116287,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 151,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "He crept along a service corridor, heading for a door that exited into the mall. He put one hand on the doorknob and the other on his badge, took a deep breath and stepped out. "
+  },
+  {
+    "score": 0.027988711021964235,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 207,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“You can always run TAILS from a USB drive. It processes everything on RAM so nothing gets onto your hard drive, and it uses Tor so there’s no central server log.” "
+  },
+  {
+    "score": 0.027483474460251577,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 268,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "She came up quickly and scrambled over the gunwales with a lot more grace than she’d managed the day before. "
+  },
+  {
+    "score": 0.02688901980162659,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 149,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "The VC fondled each of her pieces, making genuine appreciative noises. She could tell the difference between the genuine article and the fakes. "
+  },
+  {
+    "score": 0.026855595674264893,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 178,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "siblings, but it is better in many cases than the lives we cull them from. But we attempt to give them the  facsimile of family as we go along. \" "
+  },
+  {
+    "score": 0.02677042699447482,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 183,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "How much would it matter? My information was probably in the system somewhere anyway, I reasoned, if from nothing else than the incident at Arthur’s office. Would it make such a difference that it would no longer be quite so anonymous? That it would now match my mug shot, that it might get linked to Rio’s massacre of the office workers? "
+  },
+  {
+    "score": 0.026030594973256122,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 385,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Stay in touch, then. You know, call me, let me know you’re okay. Or you can always pick up when I ring. Can’t watch for excess crazy if we don’t talk regular.” He grinned at me, then reached over and squeezed my shoulder. “You’re a good kid, Russell.” "
+  },
+  {
+    "score": 0.02600646876239933,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 48,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Robbie,” he said. "
+  },
+  {
+    "score": 0.025609667780794845,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 107,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Googling at the border. Christ. Greg vested out from Google six months before, cashing in his options and \"taking some me time,\" which turned out to be harder than he expected. Five months later, what he'd mostly done is fix his friends' PCs and websites, and watch daytime TV, and gain ten pounds, which he blamed on being at home, instead of in the Googleplex, with its excellent 24-hour gym. "
+  },
+  {
+    "score": 0.02317813184480418,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 67,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Do you have an Xbox Universal? I could bring over an installer.\" "
+  },
+  {
+    "score": 0.022980625737494584,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 345,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I hung up the phone and lay down, flat out on the carpet, trying a breathing exercise to calm down. The problem was, it wasn't working. Having had some experience with being robbed—I once got completely cleaned out when I had a ground-floor apartment down in the Village—I know you go through certain Kubler-Ross-like stages of anger, denial, de­pression, acceptance. You also go through a predictable series of recriminations: I should have had window bars and gates; I should have had a different lock; I should have had two different locks. In the instance just recalled, I'm virtually certain an apartment painter duplicated a set of my keys on his lunch break and then passed them on to a second-story artist. No way to prove that, mind you, but it had to be what happened. I also suspect he checked my appointments cal­endar to see when I was going to be out of town. "
+  },
+  {
+    "score": 0.02091694190884298,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 188,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "It was an emergency. There was an even tramping of feet ahead of him, behind him, to his left and right. He stood, slowly, and put his hands in the air. "
+  },
+  {
+    "score": 0.020628071566687636,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 307,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I felt like I'd been living under a rock. How had I missed that? There was an anarchist...  passed on the way to school that had a poster of an old revolutionary named Emma Goldman with the caption \"If I can't dance, I don't want to be a part of your revolution.\" I'd been spending all my energies on figuring out how to use the Xnet to organize dedicated fighters so they could jam the DHS, but this was so much cooler. A big concert -- I had no idea how to do one of those, but I was glad someone did. "
+  },
+  {
+    "score": 0.018663897365445506,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 158,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Why would she have flown back h...” I trailed off. “You think they figured out we had a GPS on her. You think they found the tracker.” "
+  },
+  {
+    "score": 0.01806483953062663,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 167,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "There was a short beat of silence, as if Checker had expected a different response, but he recovered quickly. “I’m texting you the details now, including the location and the tracker frequency. Satellite imagery was no help, unfortunately; it only shows some buildings in the middle of the desert. As for when...he’s going in tonight.” "
+  },
+  {
+    "score": 0.017192700589135558,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 124,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "The curving asphalt sloped down between the well-tended plots, a river of ink between the white bones of the gravestones. I followed it down into a wooded area and then up a hill that was topped with an ornate round building. "
+  },
+  {
+    "score": 0.017177828724890314,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 347,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "We both laughed at that. I said, \"Sure, it's better to get loved-off than it is to get chewed-out, but don't you feel like an idiot, having a machine telling you what a great job you're doing?\" "
+  },
+  {
+    "score": 0.016853008495318438,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 186,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Lights flashed around the corner, and I slipped in between two dumpsters as three police cars screeched into the alley behind me, unexpectedly cutting off my escape route along the ground. Shit. Why did things have to get complicated? "
+  },
+  {
+    "score": 0.015517281142925715,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 24,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "When the rpm's of the engine had died away, I clicked open the Bell's wide door, slid it back, and looked around. In the glare of the landing lights I realized at once that the stones were old, weathered, and worn, but the grout that sealed them was white and brand new. The plaza was free of moss, clean as the day it was done—which did not appear to be all that long ago. Above me, the pyramid, continuous recessed tiers of glistening stones, towered into the dim sky­line of trees. "
+  },
+  {
+    "score": 0.012783406698525185,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 260,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I drove around the city for a while with an aimless vengeance, going in circles as if I were on a mission to wear out the car. I ran out of gas, refilled the tank, and kept going. "
+  },
+  {
+    "score": 0.011301017247532831,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 386,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I blinked. By proposing we watch each other, I had been thinking in terms of a mutually beneficial business arrangement, but Arthur seemed to be taking it as an overture of friendship. “I...if you say so,” I got out. "
+  },
+  {
+    "score": 0.0008845277521816714,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 130,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Okay, so basically a friend of mine who is an awesomely good actor is talking to the FBI right now,” I said, “offering to help them set up a sting on a guy who will walk right into their trap. Which would be bad, except the guy they’re trapping deserves to be in trouble.” "
+  },
+  {
+    "score": 0.0005244823022448526,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 296,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "> It was really great to meet you too. "
+  },
+  {
+    "score": 0.0003759581785219386,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 111,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "we’ll want plenty of light on the face of whoever the FBI sends. "
+  },
+  {
+    "score": -0.0016987456324499147,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 208,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“That sounds sweet. You just download it?” "
+  },
+  {
+    "score": -0.0037819057877768523,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 212,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Great way to earn a lot of credits for free. You should apply.” "
+  },
+  {
+    "score": -0.0043834389699454746,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 155,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "Checker hesitated, then said in a rush, “Polk’s tracker came back on.” "
+  },
+  {
+    "score": -0.004439557782341186,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 262,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I drove to her condo. "
+  },
+  {
+    "score": -0.008228484935835542,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 108,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "The writing had been on the wall. Google had a whole pod of lawyers in charge of dealing with the world's governments, and scumbag lobbyists on the Hill to try to keep the law from turning them into the world's best snitch. It was a losing battle. The US Government had spent $15 billion on a program to fingerprint and photograph visitors at the border, and hadn't caught a single terrorist. Clearly, the public sector was not equipped to Do Search Right. "
+  },
+  {
+    "score": -0.016651655446274043,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 210,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "She gave me a gotcha grin, letting me know she caught my sar- casm. “Sounds good. Say, have you heard of PSEO?” "
+  },
+  {
+    "score": -0.017897822362436765,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 266,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I let myself out the back door. The building had a small paved area behind it, the plants in proscribed plots around the cement almost making it a backyard. There was a high fence that gave it a false sense of privacy and solitude, some lawn furniture, and a portable fire pit in the corner of the patio. It was all pleasant and well-groomed and totally generic. I turned to go back inside. "
+  },
+  {
+    "score": -0.019696778571144827,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 127,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "The freshly-broken door banged behind me as I walked in. The building was filled with walls of plaques—small squares with carved names on them that stacked on top of each other, chasing each other up into the darkness. Cover stones for cremated remains, I realized, the columns of stone tablets heavy with the history of the dead. "
+  },
+  {
+    "score": -0.02100892057448968,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 157,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“The signal’s here in Los Angeles.” "
+  },
+  {
+    "score": -0.02797061270420134,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 187,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "And then a low thrum started just on the edge of my hearing and began building, vibrating through the air louder and louder and louder. "
+  },
+  {
+    "score": -0.028458526595806,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 57,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "\"Then why not submit a formal proposal? In writing. I'm in charge and that's how I do business. If your numbers work, then we can talk.\" "
+  },
+  {
+    "score": -0.0367224056198041,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 185,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I stared in shock. The place was already swarming with cops. Since when did LA response times get so good? "
+  },
+  {
+    "score": -0.040327076636665564,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 25,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "I stepped out onto the pavement, holding my breath. The plaza was almost football-field in size, reminding me of an Italian piazza. Around me the rain was lessening slightly, and as my eyes adjusted . . . my God. There wasn't just a pyramid here; through the sparkle of raindrops at the edge of the helicopter's lights I could see what looked like a wide cobblestone walkway leading into the dense growth just off the edge of the square, probably toward the south, away from the river, connecting the plaza with distant groups of small, thatch-roofed houses, set in clusters. . . . "
+  },
+  {
+    "score": -0.05666145787009532,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 383,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "“Hey!” He gave me a gentle shove in return. “Y’know, it’s a good idea. Better than nothing, for sure. You got my cell number, right?” "
+  },
+  {
+    "score": -0.06748970913657278,
+    "run_id": "ck_rag_v1|60000_rand_book_1",
+    "source_file": "60000_rand_book_1",
+    "evidence": 306,
+    "chunk_type": "document",
+    "needle_item_id": null,
+    "text": "> They're putting on a huge show and they've got like fifty bands signed to play the bill, going to set up on the tennis courts and bring out their own amp trucks and rock out all night. "
+  }
+]

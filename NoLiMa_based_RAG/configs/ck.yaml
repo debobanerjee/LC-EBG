@@ -1,0 +1,36 @@
+run_name: "ck_rag_v1"
+reasoning_type: "commonsense_knowledge"
+needle_set_path: "datasets/NoLiMa/needlesets/needle_set.json"
+
+text_files:
+  - "datasets/NoLiMa/haystacks/rand_shuffle_10000/rand_book_1.txt"
+  - "datasets/NoLiMa/haystacks/rand_shuffle_20000/rand_book_1.txt"
+  - "datasets/NoLiMa/haystacks/rand_shuffle_30000/rand_book_1.txt"
+  - "datasets/NoLiMa/haystacks/rand_shuffle_40000/rand_book_1.txt"
+  - "datasets/NoLiMa/haystacks/rand_shuffle_50000/rand_book_1.txt"
+  - "datasets/NoLiMa/haystacks/rand_shuffle_60000/rand_book_1.txt"
+  - "datasets/NoLiMa/haystacks/rand_shuffle_70000/rand_book_1.txt"
+  - "datasets/NoLiMa/haystacks/rand_shuffle_80000/rand_book_1.txt"
+  - "datasets/NoLiMa/haystacks/rand_shuffle_90000/rand_book_1.txt"
+  - "datasets/NoLiMa/haystacks/rand_shuffle_100000/rand_book_1.txt"
+  - "datasets/NoLiMa/haystacks/rand_shuffle_200000/rand_book_1.txt"
+  - "datasets/NoLiMa/haystacks/rand_shuffle_300000/rand_book_1.txt"
+  - "datasets/NoLiMa/haystacks/rand_shuffle_400000/rand_book_1.txt"
+  - "datasets/NoLiMa/haystacks/rand_shuffle_500000/rand_book_1.txt"
+  - "datasets/NoLiMa/haystacks/rand_shuffle_600000/rand_book_1.txt"
+  - "datasets/NoLiMa/haystacks/rand_shuffle_700000/rand_book_1.txt"
+  - "datasets/NoLiMa/haystacks/rand_shuffle_800000/rand_book_1.txt"
+  - "datasets/NoLiMa/haystacks/rand_shuffle_900000/rand_book_1.txt"
+  - "datasets/NoLiMa/haystacks/rand_shuffle_1000000/rand_book_1.txt"
+
+base_seed: 42
+
+openai_api_key: null  # or paste directly if you want
+embedding_model: "text-embedding-3-small"
+embedding_batch_size: 16
+
+qdrant_url: "http://localhost:6333"
+qdrant_api_key: null
+qdrant_collection: "book3"
+
+output_dir: "NoLiMa_based_RAG/data/book3_rag_results"

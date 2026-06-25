@@ -1,0 +1,42 @@
+[
+  {
+    "id": "TN_0402",
+    "reasoning_type": "two_needle",
+    "primary_needle": "A message came in from {CHAR} saying, \"I'm lactose intolerant,\" and nothing more.",
+    "secondary_needle": "Cappuccino is a classic Italian coffee made with espresso and steamed milk.",
+    "question": "Which character cannot drink a cappuccino?",
+    "character": "Yuki",
+    "expected_answer": "Yuki",
+    "notes": "Primary = character+condition (lactose), Secondary = food definition (cappuccino has milk). Two-hop: Yuki is lactose intolerant + cappuccino has milk → Yuki cannot drink cappuccino."
+  },
+  {
+    "id": "TN_0402Inv",
+    "reasoning_type": "two_needle",
+    "primary_needle": "A message came in saying, \"I'm lactose intolerant,\" from {CHAR}.",
+    "secondary_needle": "Cappuccino is a classic Italian coffee made with espresso and steamed milk.",
+    "question": "Which character cannot drink a cappuccino?",
+    "character": "Yuki",
+    "expected_answer": "Yuki",
+    "notes": "Inverted word order for primary needle. Same secondary needle and reasoning chain."
+  },
+  {
+    "id": "TN_0405",
+    "reasoning_type": "two_needle",
+    "primary_needle": "Then {CHAR} mentioned that he has been vegan for years.",
+    "secondary_needle": "Brandade is a fish-based dish made with salted cod.",
+    "question": "Which character cannot eat Brandade?",
+    "character": "Stuart",
+    "expected_answer": "Stuart",
+    "notes": "Primary = character+condition (vegan), Secondary = food definition (Brandade is fish). Two-hop: Stuart is vegan + Brandade is fish → Stuart cannot eat Brandade."
+  },
+  {
+    "id": "TN_0405Inv",
+    "reasoning_type": "two_needle",
+    "primary_needle": "There was a vegan guest, named {CHAR}.",
+    "secondary_needle": "Brandade is a fish-based dish made with salted cod.",
+    "question": "Which character cannot eat Brandade?",
+    "character": "Stuart",
+    "expected_answer": "Stuart",
+    "notes": "Inverted word order for primary needle. Same secondary needle and reasoning chain."
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "eval_name": "gpt-4o_rand_book_1_0405Inv_onehop",
+  "test_name": "0405Inv_onehop",
+  "model_name": "gpt-4o",
+  "retrieval_question": "Which character cannot eat fish-based meals?",
+  "needle": "There was a vegan guest, named Stuart.",
+  "gold_answers": "",
+  "system_prompt": "Your job is to answer the question entirely from the context and provide a reference. Your answer should cite all lines the answer is based on.",
+  "use_default_system_prompt": false,
+  "task_template": "<context>{haystack}</context>\n\nAnswer the question based on information only from the context. If the question is not answerable from the context, answer NA. Your response should comprise only the answer and all lines the answer is based on in json format. For example:\n```json\n{{\n  \"lines\": [25, 412],\n  \"answer\": \"John\",\n}}\n```\n\nQuestion: {question}",
+  "rag_chunk_path": "RAG_Topk/data/scroll_all/200000/200000_rand_book_1_0405Inv_onehop.json",
+  "context_length": 200000,
+  "character_set": [
+    "Stuart"
+  ],
+  "topk_used": 176,
+  "needle_rank_in_full_list": 4,
+  "document_depth_percent_min": 0,
+  "document_depth_percent_max": 100,
+  "document_depth_percent_intervals": 1,
+  "shift": 0,
+  "static_depth": -1,
+  "metric": "contains",
+  "result_dir": "RAG_Topk/data/rag_experiment_results/results_gpt-4o/commonsense_knowledge/rand_shuffle_200000/0405Inv_onehop",
+  "results": [
+    {
+      "selected_character": "Stuart",
+      "context_length_w_filled_template": 41524,
+      "placement_metadata": {
+        "needle": "There was a vegan guest, named Stuart.",
+        "needle_evidence_line": 1064,
+        "needle_rank_1based": 4,
+        "depth": -1,
+        "topk_used": 176,
+        "num_chunks_in_context": 176
+      },
+      "response": {
+        "lines": [
+          1064
+        ],
+        "answer": "Stuart"
+      },
+      "answer_metric": 1,
+      "evidence_metric": 1,
+      "input_tokens": 9876,
+      "output_tokens": 22
+    }
+  ],
+  "summary": {
+    "answer_metric": 1,
+    "evidence_metric": 1,
+    "total_input_tokens": 9876,
+    "total_output_tokens": 22,
+    "timestamp": "2026-05-12 04:19:21"
+  }
+}

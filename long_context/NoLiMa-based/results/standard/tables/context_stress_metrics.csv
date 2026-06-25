@@ -1,0 +1,17 @@
+model,hop,short_acc,long_acc,drop_pp,n_short_ctx,n_long_ctx,display
+claude-sonnet-4-20250514,onehop,97.5,81.25,16.25,10,4,Claude Sonnet 4
+claude-sonnet-4-20250514,twohop,83.75,57.8125,25.9375,10,4,Claude Sonnet 4
+claude-sonnet-4-5-20250929,onehop,96.875,71.875,25.0,10,4,Claude Sonnet 4.5
+claude-sonnet-4-5-20250929,twohop,95.625,56.25,39.375,10,4,Claude Sonnet 4.5
+gpt-4-1,onehop,98.75,85.625,13.125,10,10,GPT-4.1
+gpt-4-1,twohop,96.25,75.625,20.625,10,10,GPT-4.1
+gpt-4o,onehop,83.125,62.5,20.625,10,1,GPT-4o
+gpt-4o,twohop,69.91666666666667,62.5,7.416666666666671,10,1,GPT-4o
+gpt-5-2025-08-07,onehop,100.0,96.875,3.125,10,10,GPT-5
+gpt-5-2025-08-07,twohop,93.625,87.79166666666666,5.833333333333343,10,10,GPT-5
+gemini-2-5-flash,onehop,100.0,80.625,19.375,10,10,Gemini 2.5 Flash
+gemini-2-5-flash,twohop,70.625,26.25,44.375,10,10,Gemini 2.5 Flash
+gemini-3-flash-preview,onehop,100.0,100.0,0.0,10,10,Gemini 3 Flash
+gemini-3-flash-preview,twohop,84.66666666666666,93.33333333333334,-8.666666666666686,10,10,Gemini 3 Flash
+o3-mini-2025-01-31,onehop,80.0,27.5,52.5,10,5,o3-mini
+o3-mini-2025-01-31,twohop,56.25,20.0,36.25,10,5,o3-mini

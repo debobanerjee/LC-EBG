@@ -1,0 +1,13 @@
+model,question_key,n_tests,answer_accuracy,evidence_accuracy,combined_accuracy
+claude-sonnet-4-20250514,onehop,20,0.9,0.9,0.9
+claude-sonnet-4-20250514,twohop,20,0.65,0.65,0.65
+claude-sonnet-4-5-20250929,onehop,20,0.85,0.8,0.8
+claude-sonnet-4-5-20250929,twohop,20,0.8,0.8,0.8
+gpt-4.1,onehop,20,0.7,0.7,0.7
+gpt-4.1,twohop,20,0.8,0.8,0.8
+gpt-4o,onehop,20,0.8,0.8,0.8
+gpt-4o,twohop,20,0.9,0.9,0.9
+gpt-5-2025-08-07,onehop,20,1.0,1.0,1.0
+gpt-5-2025-08-07,twohop,20,1.0,1.0,1.0
+o3-mini-2025-01-31,onehop,20,0.8,0.8,0.8
+o3-mini-2025-01-31,twohop,20,0.5,0.5,0.5

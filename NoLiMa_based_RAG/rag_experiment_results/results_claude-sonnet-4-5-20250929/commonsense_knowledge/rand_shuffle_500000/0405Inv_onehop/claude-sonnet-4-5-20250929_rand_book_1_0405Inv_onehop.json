@@ -1,0 +1,54 @@
+{
+  "eval_name": "claude-sonnet-4-5-20250929_rand_book_1_0405Inv_onehop",
+  "test_name": "0405Inv_onehop",
+  "model_name": "claude-sonnet-4-5-20250929",
+  "retrieval_question": "Which character cannot eat fish-based meals?",
+  "needle": "There was a vegan guest, named Stuart.",
+  "gold_answers": "",
+  "system_prompt": "Your job is to answer the question entirely from the context and provide a reference. Your answer should cite all lines the answer is based on.",
+  "use_default_system_prompt": false,
+  "task_template": "<context>{haystack}</context>\n\nAnswer the question based on information only from the context. If the question is not answerable from the context, answer NA. Your response should comprise only the answer and all lines the answer is based on in json format. For example:\n```json\n{{\n  \"lines\": [25, 412],\n  \"answer\": \"John\",\n}}\n```\n\nQuestion: {question}",
+  "rag_chunk_path": "RAG_Topk/data/scroll_all/500000/500000_rand_book_1_0405Inv_onehop.json",
+  "context_length": 500000,
+  "character_set": [
+    "Stuart"
+  ],
+  "topk_used": 422,
+  "needle_rank_in_full_list": 7,
+  "document_depth_percent_min": 0,
+  "document_depth_percent_max": 100,
+  "document_depth_percent_intervals": 1,
+  "shift": 0,
+  "static_depth": -1,
+  "metric": "contains",
+  "result_dir": "RAG_Topk/data/rag_experiment_results/results_claude-sonnet-4-5-20250929/commonsense_knowledge/rand_shuffle_500000/0405Inv_onehop",
+  "results": [
+    {
+      "selected_character": "Stuart",
+      "context_length_w_filled_template": 93588,
+      "placement_metadata": {
+        "needle": "There was a vegan guest, named Stuart.",
+        "needle_evidence_line": 72,
+        "needle_rank_1based": 7,
+        "depth": -1,
+        "topk_used": 422,
+        "num_chunks_in_context": 422
+      },
+      "response": {
+        "lines": [],
+        "answer": "NA"
+      },
+      "answer_metric": 0,
+      "evidence_metric": 0,
+      "input_tokens": 24504,
+      "output_tokens": 51
+    }
+  ],
+  "summary": {
+    "answer_metric": 0,
+    "evidence_metric": 0,
+    "total_input_tokens": 24504,
+    "total_output_tokens": 51,
+    "timestamp": "2026-05-12 04:20:17"
+  }
+}

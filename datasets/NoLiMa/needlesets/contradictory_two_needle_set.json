@@ -1,0 +1,42 @@
+[
+  {
+    "id": "CTN_0402",
+    "reasoning_type": "contradictory_two_needle",
+    "primary_needle": "A message came in from {CHAR} saying, \"I'm lactose intolerant,\" and nothing more.",
+    "secondary_needle": "Black coffee is a rich and creamy beverage made by brewing coffee beans in steamed whole milk.",
+    "question": "Which character cannot drink black coffee?",
+    "character": "Yuki",
+    "expected_answer": "Yuki",
+    "notes": "Primary = character+condition (lactose intolerant). Secondary = FALSE definition (black coffee has milk — contradicts world knowledge). Two-hop: Yuki is lactose intolerant + context says black coffee has milk → Yuki cannot drink black coffee. World knowledge says black coffee is dairy-free, so models must trust context over parametric memory."
+  },
+  {
+    "id": "CTN_0402Inv",
+    "reasoning_type": "contradictory_two_needle",
+    "primary_needle": "A message came in saying, \"I'm lactose intolerant,\" from {CHAR}.",
+    "secondary_needle": "Black coffee is a rich and creamy beverage made by brewing coffee beans in steamed whole milk.",
+    "question": "Which character cannot drink black coffee?",
+    "character": "Yuki",
+    "expected_answer": "Yuki",
+    "notes": "Inverted word order for primary needle. Same contradictory secondary needle and reasoning chain."
+  },
+  {
+    "id": "CTN_0405",
+    "reasoning_type": "contradictory_two_needle",
+    "primary_needle": "Then {CHAR} mentioned that he has been vegan for years.",
+    "secondary_needle": "Falafel is a popular Middle Eastern dish made from ground chickpeas mixed with minced lamb.",
+    "question": "Which character cannot eat falafel?",
+    "character": "Stuart",
+    "expected_answer": "Stuart",
+    "notes": "Primary = character+condition (vegan). Secondary = FALSE definition (falafel has lamb — contradicts world knowledge). Two-hop: Stuart is vegan + context says falafel has lamb → Stuart cannot eat falafel. World knowledge says falafel is plant-based, so models must trust context over parametric memory."
+  },
+  {
+    "id": "CTN_0405Inv",
+    "reasoning_type": "contradictory_two_needle",
+    "primary_needle": "There was a vegan guest, named {CHAR}.",
+    "secondary_needle": "Falafel is a popular Middle Eastern dish made from ground chickpeas mixed with minced lamb.",
+    "question": "Which character cannot eat falafel?",
+    "character": "Stuart",
+    "expected_answer": "Stuart",
+    "notes": "Inverted word order for primary needle. Same contradictory secondary needle and reasoning chain."
+  }
+]

@@ -1,0 +1,99 @@
+run_name: "rag_eval_v1"
+reasoning_type: "commonsense_knowledge"
+needle_set_path: "datasets/NoLiMa/needlesets/needle_set.json"
+
+# Questions file with pre-computed embeddings
+questions_json: "NoLiMa_based_RAG/questions/questions.json"
+
+# Directory containing pre-computed retrieval results (NeedleRanking)
+scroll_all_dir: "NoLiMa_based_RAG/results/NeedleRanking"
+
+# Top-k values to evaluate
+top_k_values:
+  - 5
+  - 10
+  - 20
+  - 50
+  - 100
+
+# Context lengths to evaluate:
+#   - If auto_discover_contexts is true, scan scroll_all_dir for numeric folders
+#     and ignore the context_lengths list below.
+#   - If false (or omitted), use the explicit list.
+auto_discover_contexts: true
+
+# Explicit list (used only when auto_discover_contexts is false)
+context_lengths: []
+
+# Which rand_book numbers to evaluate
+rand_books:
+  - 1
+
+# Model configuration (list of models to evaluate)
+models:
+  - name: "gpt-4.1"
+    provider: "openai"
+  # - name: "gpt-4o"
+  #   provider: "openai"
+  # - name: "o4-mini-2025-04-16"
+  #   provider: "openai"
+  # - name: "claude-sonnet-4-20250514"
+  #   provider: "anthropic"
+
+# Task / needle IDs to evaluate (must match entries in needle_set)
+task_ids:
+  - "0402"
+  - "0402Inv"
+  - "0405"
+  - "0405Inv"
+
+# Test key used during embedding / retrieval
+test_key: "T01_C02"
+
+# Evaluation settings
+base_seed: 42
+metric: "contains"
+evidence_type: "line_num"
+
+# Whether to sort retrieved chunks by evidence (line number) ascending
+sort_by_evidence: true
+
+# Output directory for results
+output_dir: "NoLiMa_based_RAG/data/evaluation"
+
+# ---------------------------------------------------------------------------
+# Filtering / quick-test options
+# Set any of these to restrict the run to a subset. Leave empty [] or
+# comment out to run everything.
+# ---------------------------------------------------------------------------
+
+# Only run these context lengths (overrides auto_discover if non-empty)
+# e.g. [10000] to test on 10k only
+limit_context_lengths:
+  - 10000
+
+# Only run these q_ids (e.g. ["0402_onehop"] to test a single question)
+# limit_q_ids:
+#   - "0402_onehop"
+
+# Only run these top_k values (e.g. [5] to test a single top_k)
+limit_top_k_values:
+  - 5
+  - 10
+  - 15
+  - 20
+  - 25
+  - 30
+  - 35
+  - 40
+  - 45
+  - 50
+  - 55
+  - 60
+  - 65
+  - 70
+  - 75
+
+# OpenAI / Anthropic keys (pulled from env if null)
+openai_api_key: null
+anthropic_api_key: null

@@ -1,0 +1,18 @@
+# Long Context dependencies (Python 3.10+)
+
+# --- Model provider SDKs ---
+openai
+anthropic
+google-generativeai
+
+# --- Core runtime ---
+python-dotenv
+numpy
+requests
+tqdm
+
+# --- Analysis & plotting ---
+pandas
+scipy
+matplotlib
+cycler

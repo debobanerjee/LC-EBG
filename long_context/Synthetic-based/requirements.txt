@@ -1,0 +1,5 @@
+# For run_experiments.py and context length benchmarks
+python-dotenv>=1.0.0
+openai>=1.0.0
+anthropic>=0.18.0
+google-generativeai>=0.8.0
