@@ -1,6 +1,6 @@
 <h1 align="center">Evidence-Based Generation (EBG) for Long-Context QA</h1>
 
-<p align="center"><em>The Bottleneck Is Retrieval, Not Reading: Diagnosing Evidence-Based Generation with RAG for Long-Context Question Answering</em></p>
+<p align="center"><em><a href="assets/LC-EBG.pdf">The Bottleneck Is Retrieval, Not Reading: Diagnosing Evidence-Based Generation with RAG for Long-Context Question Answering</a></em></p>
 
 <p align="center">
   <!-- <a href="long_context/NoLiMa-based"><b>NoLiMa-based LC</b></a>&nbsp;|&nbsp;
