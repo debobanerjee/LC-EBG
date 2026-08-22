@@ -24,10 +24,13 @@ env/
 .trash-cleanup/
 
 # --- Run outputs: NoLiMa-based long-context benchmark ---
+# Everything under evaluation/ is generated: raw per-model run JSON, the
+# special_experiments/ outputs, and the stale research_plots/ PNGs from the
+# predecessor analysis script. Post-processed figures/tables live in results/,
+# which IS tracked.
 long_context/NoLiMa-based/logs/
 long_context/NoLiMa-based/validation_reports/
-long_context/NoLiMa-based/evaluation/results_*/
-long_context/NoLiMa-based/evaluation/special_experiments/
+long_context/NoLiMa-based/evaluation/
 
 # --- Run outputs: synthetic two-hop benchmark ---
 long_context/Synthetic-based/random_facts.txt
@@ -41,3 +44,21 @@ multidocument_qa/**/processed/
 multidocument_qa/**/retrieval_results/
 multidocument_qa/**/experiment_outputs/
 multidocument_qa/**/experiment_outputs_*/
+
+# --- Shared NoLiMa data: haystacks are large and regenerable ---
+# Both spellings: the tracked runners resolve `haystacks/`; this checkout
+# carries a legacy `haystack/` directory from the predecessor layout.
+datasets/NoLiMa/haystack/
+datasets/NoLiMa/haystacks
+datasets/NoLiMa/haystacks/
+
+# --- Separate unpublished experiment: vLLM (open-model) fork of the NoLiMa LC
+# benchmark. Not part of the paper; keep it out of the paper repo entirely.
+long_context/NoLiMa-based/cluster_vllm/
+long_context/NoLiMa-based/cluster_vllm_answer_only/
+
+# --- Local agent notes, not a repo artifact ---
+CLAUDE.md
+
+# --- Paper drafts (the published figure assets under assets/ stay tracked) ---
+Long_Context_Evidence_based_QA.pdf
